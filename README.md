@@ -2,8 +2,7 @@
 Visualization application for multi-agent reinforcement learning algorithms
 
 ## Project Name: Real Time IoT for Distributed Machine Learning
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Alt text](https://github.com/suinaowawa/Reinforcement-Learning-Project/raw/master/figures/design-interface.png)
 ## Project Introduction:
 This project design and implement a self-tracking multi-agent system, which can be used for goods-delivering vehicles in the low-cost intelligent warehouse distribution system. Different reinforcement learning algorithms(e.g. Multi-agent Q-learning, DQN) are compared and tested in simulation and hardware grid world environment. 
 ## Project Demo:
