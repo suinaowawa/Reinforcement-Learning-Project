@@ -1,0 +1,1113 @@
+Start of program
+npTemp= [[190 180 190 180]
+ [290 180 290 180]
+ [390 180 390 180]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+npTemp= [[190 280 190 280]
+ [290 280 290 280]
+ [390 280 390 280]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+npTemp= [[725 515 725 515]
+ [725 335 725 335]
+ [635 695 635 695]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+npTemp= [[725 515 725 515]
+ [725 335 725 335]
+ [635 695 635 695]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+hs= [[-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]
+ [-45. -45.  45.  45.]]
+self.agentPosition_list =  [[235.0, 225.0, 145.0, 135.0], [335.0, 225.0, 245.0, 135.0], [435.0, 225.0, 345.0, 135.0]]
+3
+{(545.0, 65.0): 0, (545.0, 155.0): 8, (545.0, 245.0): 16, (545.0, 335.0): 24, (545.0, 425.0): 32, (545.0, 515.0): 40, (545.0, 605.0): 48, (545.0, 695.0): 56, (635.0, 65.0): 1, (635.0, 155.0): 9, (635.0, 245.0): 17, (635.0, 335.0): 25, (635.0, 425.0): 33, (635.0, 515.0): 41, (635.0, 605.0): 49, (635.0, 695.0): 57, (725.0, 65.0): 2, (725.0, 155.0): 10, (725.0, 245.0): 18, (725.0, 335.0): 26, (725.0, 425.0): 34, (725.0, 515.0): 42, (725.0, 605.0): 50, (725.0, 695.0): 58, (815.0, 65.0): 3, (815.0, 155.0): 11, (815.0, 245.0): 19, (815.0, 335.0): 27, (815.0, 425.0): 35, (815.0, 515.0): 43, (815.0, 605.0): 51, (815.0, 695.0): 59, (905.0, 65.0): 4, (905.0, 155.0): 12, (905.0, 245.0): 20, (905.0, 335.0): 28, (905.0, 425.0): 36, (905.0, 515.0): 44, (905.0, 605.0): 52, (905.0, 695.0): 60, (995.0, 65.0): 5, (995.0, 155.0): 13, (995.0, 245.0): 21, (995.0, 335.0): 29, (995.0, 425.0): 37, (995.0, 515.0): 45, (995.0, 605.0): 53, (995.0, 695.0): 61, (1085.0, 65.0): 6, (1085.0, 155.0): 14, (1085.0, 245.0): 22, (1085.0, 335.0): 30, (1085.0, 425.0): 38, (1085.0, 515.0): 46, (1085.0, 605.0): 54, (1085.0, 695.0): 62, (1175.0, 65.0): 7, (1175.0, 155.0): 15, (1175.0, 245.0): 23, (1175.0, 335.0): 31, (1175.0, 425.0): 39, (1175.0, 515.0): 47, (1175.0, 605.0): 55, (1175.0, 695.0): 63}
+位于屏幕 177 292
+位于窗口 177 269
+find you! 4
+t = 4
+move_end: item on going is: 4
+self.cv.coords(1) =  [190.0, 180.0]
+self.cv.coords(2) =  [290.0, 180.0]
+self.cv.coords(3) =  [390.0, 180.0]
+self.cv.coords(4) =  [545.0, 695.0]
+self.cv.coords(5) =  [290.0, 280.0]
+self.cv.coords(6) =  [390.0, 280.0]
+位于屏幕 288 211
+位于窗口 288 188
+find you! 2
+t = 2
+move_end: item on going is: 2
+self.cv.coords(1) =  [190.0, 180.0]
+self.cv.coords(2) =  [815.0, 155.0]
+self.cv.coords(3) =  [390.0, 180.0]
+self.cv.coords(4) =  [545.0, 695.0]
+self.cv.coords(5) =  [290.0, 280.0]
+self.cv.coords(6) =  [390.0, 280.0]
+[1, 3]
+[4, 6]
+[7, 12]
+12
+1
+self.grid_origx and self.grid_origy =  500 20
+p= [190.0, 180.0]
+2
+self.grid_origx and self.grid_origy =  500 20
+p= [815.0, 155.0]
+3
+self.grid_origx and self.grid_origy =  500 20
+p= [390.0, 180.0]
+4
+self.grid_origx and self.grid_origy =  500 20
+p= [545.0, 695.0]
+5
+self.grid_origx and self.grid_origy =  500 20
+p= [290.0, 280.0]
+6
+self.grid_origx and self.grid_origy =  500 20
+p= [390.0, 280.0]
+7
+self.grid_origx and self.grid_origy =  500 20
+p= [725.0, 515.0]
+8
+self.grid_origx and self.grid_origy =  500 20
+p= [725.0, 335.0]
+9
+self.grid_origx and self.grid_origy =  500 20
+p= [635.0, 695.0]
+10
+self.grid_origx and self.grid_origy =  500 20
+p= [905.0, 245.0]
+11
+self.grid_origx and self.grid_origy =  500 20
+p= [545.0, 245.0]
+12
+self.grid_origx and self.grid_origy =  500 20
+p= [995.0, 605.0]
+[2]
+[4]
+[7, 8, 9, 10, 11, 12]
+self.selected_agent[0]= 2
+WARNING:tensorflow:From C:\Users\Yue\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From C:\Users\Yue\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+Episode: 000/1000 | Loss: 0.0386 | StepCount: 36 | Win rate: 0.000 | Total rewards: -13.560 | time: 2.7 seconds
+Episode: 001/1000 | Loss: 0.0440 | StepCount: 30 | Win rate: 0.000 | Total rewards: -13.430 | time: 4.6 seconds
+Episode: 002/1000 | Loss: 0.0304 | StepCount: 34 | Win rate: 0.000 | Total rewards: -12.860 | time: 6.8 seconds
+Episode: 003/1000 | Loss: 0.0755 | StepCount: 42 | Win rate: 0.000 | Total rewards: -13.700 | time: 10.5 seconds
+Episode: 004/1000 | Loss: 0.0644 | StepCount: 29 | Win rate: 0.000 | Total rewards: -13.030 | time: 13.0 seconds
+Episode: 005/1000 | Loss: 0.0241 | StepCount: 44 | Win rate: 0.000 | Total rewards: -12.870 | time: 16.1 seconds
+Episode: 006/1000 | Loss: 0.0473 | StepCount: 27 | Win rate: 0.000 | Total rewards: -13.450 | time: 17.9 seconds
+Episode: 007/1000 | Loss: 0.0326 | StepCount: 54 | Win rate: 0.000 | Total rewards: -13.210 | time: 21.4 seconds
+Episode: 008/1000 | Loss: 0.0837 | StepCount: 36 | Win rate: 0.000 | Total rewards: -13.710 | time: 23.7 seconds
+Episode: 009/1000 | Loss: 0.0178 | StepCount: 53 | Win rate: 0.000 | Total rewards: -13.020 | time: 27.2 seconds
+Episode: 010/1000 | Loss: 0.0617 | StepCount: 46 | Win rate: 0.000 | Total rewards: -12.840 | time: 30.1 seconds
+Episode: 011/1000 | Loss: 0.0192 | StepCount: 60 | Win rate: 0.000 | Total rewards: -12.950 | time: 34.1 seconds
+Episode: 012/1000 | Loss: 0.0379 | StepCount: 39 | Win rate: 0.000 | Total rewards: -13.060 | time: 36.8 seconds
+Episode: 013/1000 | Loss: 0.0427 | StepCount: 25 | Win rate: 0.000 | Total rewards: -13.370 | time: 38.9 seconds
+Episode: 014/1000 | Loss: 0.0208 | StepCount: 22 | Win rate: 0.000 | Total rewards: -13.890 | time: 40.7 seconds
+Episode: 015/1000 | Loss: 0.0846 | StepCount: 40 | Win rate: 0.000 | Total rewards: -12.910 | time: 43.4 seconds
+Episode: 016/1000 | Loss: 0.0537 | StepCount: 40 | Win rate: 0.000 | Total rewards: -12.880 | time: 46.1 seconds
+Episode: 017/1000 | Loss: 0.1382 | StepCount: 55 | Win rate: 0.000 | Total rewards: -13.550 | time: 49.6 seconds
+Episode: 018/1000 | Loss: 0.0083 | StepCount: 52 | Win rate: 0.053 | Total rewards: -9.960 | time: 52.9 seconds
+Episode: 019/1000 | Loss: 0.0208 | StepCount: 46 | Win rate: 0.050 | Total rewards: -12.960 | time: 56.1 seconds
+Episode: 020/1000 | Loss: 0.0112 | StepCount: 61 | Win rate: 0.048 | Total rewards: -12.940 | time: 60.0 seconds
+Episode: 021/1000 | Loss: 0.0665 | StepCount: 24 | Win rate: 0.091 | Total rewards: -3.630 | time: 61.6 seconds
+Episode: 022/1000 | Loss: 0.0376 | StepCount: 18 | Win rate: 0.130 | Total rewards: -1.390 | time: 63.3 seconds
+Episode: 023/1000 | Loss: 0.0367 | StepCount: 53 | Win rate: 0.125 | Total rewards: -13.090 | time: 67.0 seconds
+Episode: 024/1000 | Loss: 0.0325 | StepCount: 17 | Win rate: 0.120 | Total rewards: -13.780 | time: 68.1 seconds
+Episode: 025/1000 | Loss: 0.0171 | StepCount: 28 | Win rate: 0.154 | Total rewards: -5.290 | time: 69.9 seconds
+Episode: 026/1000 | Loss: 0.0612 | StepCount: 28 | Win rate: 0.185 | Total rewards: -5.580 | time: 71.7 seconds
+Episode: 027/1000 | Loss: 0.0496 | StepCount: 2 | Win rate: 0.214 | Total rewards: 0.250 | time: 71.8 seconds
+Episode: 028/1000 | Loss: 0.0151 | StepCount: 3 | Win rate: 0.241 | Total rewards: 0.210 | time: 72.0 seconds
+Episode: 029/1000 | Loss: 0.0209 | StepCount: 14 | Win rate: 0.267 | Total rewards: -0.480 | time: 73.0 seconds
+Episode: 030/1000 | Loss: 0.0123 | StepCount: 2 | Win rate: 0.290 | Total rewards: 0.250 | time: 73.1 seconds
+Episode: 031/1000 | Loss: 0.0107 | StepCount: 11 | Win rate: 0.312 | Total rewards: -0.610 | time: 73.9 seconds
+Episode: 032/1000 | Loss: 0.0049 | StepCount: 3 | Win rate: 0.333 | Total rewards: 0.920 | time: 74.1 seconds
+Episode: 033/1000 | Loss: 0.0108 | StepCount: 7 | Win rate: 0.353 | Total rewards: 0.760 | time: 74.6 seconds
+Episode: 034/1000 | Loss: 0.0264 | StepCount: 17 | Win rate: 0.371 | Total rewards: -2.900 | time: 75.8 seconds
+Episode: 035/1000 | Loss: 0.0088 | StepCount: 18 | Win rate: 0.389 | Total rewards: -1.600 | time: 77.0 seconds
+Episode: 036/1000 | Loss: 0.0076 | StepCount: 7 | Win rate: 0.405 | Total rewards: 0.050 | time: 77.4 seconds
+Episode: 037/1000 | Loss: 0.0184 | StepCount: 29 | Win rate: 0.421 | Total rewards: -4.620 | time: 79.3 seconds
+Episode: 038/1000 | Loss: 0.0074 | StepCount: 21 | Win rate: 0.436 | Total rewards: -2.760 | time: 80.6 seconds
+Episode: 039/1000 | Loss: 0.0060 | StepCount: 2 | Win rate: 0.450 | Total rewards: 0.250 | time: 80.8 seconds
+Episode: 040/1000 | Loss: 0.0068 | StepCount: 9 | Win rate: 0.463 | Total rewards: -0.030 | time: 81.3 seconds
+Episode: 041/1000 | Loss: 0.0037 | StepCount: 4 | Win rate: 0.476 | Total rewards: 0.170 | time: 81.6 seconds
+Episode: 042/1000 | Loss: 0.0060 | StepCount: 2 | Win rate: 0.488 | Total rewards: 0.250 | time: 81.7 seconds
+Episode: 043/1000 | Loss: 0.0187 | StepCount: 4 | Win rate: 0.500 | Total rewards: 0.170 | time: 82.0 seconds
+Episode: 044/1000 | Loss: 0.0120 | StepCount: 9 | Win rate: 0.511 | Total rewards: -0.030 | time: 82.6 seconds
+Episode: 045/1000 | Loss: 0.0136 | StepCount: 9 | Win rate: 0.522 | Total rewards: 0.680 | time: 83.1 seconds
+Episode: 046/1000 | Loss: 0.0169 | StepCount: 9 | Win rate: 0.532 | Total rewards: -0.030 | time: 83.7 seconds
+Episode: 047/1000 | Loss: 0.0127 | StepCount: 7 | Win rate: 0.542 | Total rewards: 0.050 | time: 84.2 seconds
+Episode: 048/1000 | Loss: 0.0060 | StepCount: 21 | Win rate: 0.551 | Total rewards: -2.310 | time: 85.5 seconds
+Episode: 049/1000 | Loss: 0.0028 | StepCount: 34 | Win rate: 0.560 | Total rewards: -6.330 | time: 87.7 seconds
+Episode: 050/1000 | Loss: 0.0062 | StepCount: 10 | Win rate: 0.569 | Total rewards: -1.120 | time: 88.4 seconds
+Episode: 051/1000 | Loss: 0.0046 | StepCount: 18 | Win rate: 0.577 | Total rewards: -2.900 | time: 89.6 seconds
+Episode: 052/1000 | Loss: 0.0055 | StepCount: 1 | Win rate: 0.585 | Total rewards: 1.000 | time: 89.7 seconds
+Episode: 053/1000 | Loss: 0.0040 | StepCount: 12 | Win rate: 0.593 | Total rewards: -1.450 | time: 90.5 seconds
+Episode: 054/1000 | Loss: 0.0022 | StepCount: 9 | Win rate: 0.600 | Total rewards: -1.080 | time: 91.1 seconds
+Episode: 055/1000 | Loss: 0.0073 | StepCount: 1 | Win rate: 0.607 | Total rewards: -0.050 | time: 91.2 seconds
+Episode: 056/1000 | Loss: 0.0056 | StepCount: 8 | Win rate: 0.614 | Total rewards: 0.010 | time: 91.8 seconds
+Episode: 057/1000 | Loss: 0.0319 | StepCount: 18 | Win rate: 0.621 | Total rewards: -5.160 | time: 93.0 seconds
+Episode: 058/1000 | Loss: 0.0048 | StepCount: 16 | Win rate: 0.627 | Total rewards: -1.810 | time: 94.2 seconds
+Episode: 059/1000 | Loss: 0.0222 | StepCount: 17 | Win rate: 0.633 | Total rewards: -2.900 | time: 95.3 seconds
+Episode: 060/1000 | Loss: 0.0065 | StepCount: 11 | Win rate: 0.639 | Total rewards: -0.360 | time: 96.1 seconds
+Episode: 061/1000 | Loss: 0.0070 | StepCount: 7 | Win rate: 0.645 | Total rewards: 0.050 | time: 96.6 seconds
+Episode: 062/1000 | Loss: 0.0034 | StepCount: 15 | Win rate: 0.651 | Total rewards: -0.520 | time: 97.7 seconds
+Episode: 063/1000 | Loss: 0.0030 | StepCount: 16 | Win rate: 0.656 | Total rewards: -0.810 | time: 98.8 seconds
+Episode: 064/1000 | Loss: 0.0065 | StepCount: 8 | Win rate: 0.662 | Total rewards: -0.240 | time: 99.4 seconds
+Episode: 065/1000 | Loss: 0.0068 | StepCount: 9 | Win rate: 0.667 | Total rewards: -1.080 | time: 100.0 seconds
+Episode: 066/1000 | Loss: 0.0027 | StepCount: 7 | Win rate: 0.672 | Total rewards: 0.050 | time: 100.5 seconds
+Episode: 067/1000 | Loss: 0.0052 | StepCount: 6 | Win rate: 0.676 | Total rewards: 0.800 | time: 100.9 seconds
+Episode: 068/1000 | Loss: 0.0109 | StepCount: 16 | Win rate: 0.681 | Total rewards: -0.810 | time: 102.0 seconds
+Episode: 069/1000 | Loss: 0.0037 | StepCount: 11 | Win rate: 0.686 | Total rewards: -0.360 | time: 102.8 seconds
+Episode: 070/1000 | Loss: 0.0047 | StepCount: 10 | Win rate: 0.690 | Total rewards: 0.640 | time: 103.5 seconds
+Episode: 071/1000 | Loss: 0.0048 | StepCount: 2 | Win rate: 0.694 | Total rewards: 0.250 | time: 103.6 seconds
+Episode: 072/1000 | Loss: 0.0064 | StepCount: 1 | Win rate: 0.699 | Total rewards: -0.050 | time: 103.7 seconds
+Episode: 073/1000 | Loss: 0.0065 | StepCount: 1 | Win rate: 0.703 | Total rewards: 1.000 | time: 103.8 seconds
+Episode: 074/1000 | Loss: 0.0038 | StepCount: 7 | Win rate: 0.707 | Total rewards: 0.050 | time: 104.3 seconds
+Episode: 075/1000 | Loss: 0.0032 | StepCount: 5 | Win rate: 0.711 | Total rewards: 0.130 | time: 104.6 seconds
+Episode: 076/1000 | Loss: 0.0026 | StepCount: 7 | Win rate: 0.714 | Total rewards: -0.450 | time: 105.0 seconds
+Episode: 077/1000 | Loss: 0.0028 | StepCount: 1 | Win rate: 0.718 | Total rewards: -0.050 | time: 105.1 seconds
+Episode: 078/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.722 | Total rewards: -0.030 | time: 105.7 seconds
+Episode: 079/1000 | Loss: 0.0031 | StepCount: 12 | Win rate: 0.725 | Total rewards: 0.560 | time: 106.5 seconds
+Episode: 080/1000 | Loss: 0.0021 | StepCount: 9 | Win rate: 0.728 | Total rewards: -2.840 | time: 107.1 seconds
+Episode: 081/1000 | Loss: 0.0019 | StepCount: 21 | Win rate: 0.732 | Total rewards: -3.310 | time: 108.4 seconds
+Episode: 082/1000 | Loss: 0.0023 | StepCount: 14 | Win rate: 0.735 | Total rewards: -0.230 | time: 109.4 seconds
+Episode: 083/1000 | Loss: 0.0034 | StepCount: 16 | Win rate: 0.738 | Total rewards: -0.600 | time: 110.5 seconds
+Episode: 084/1000 | Loss: 0.0019 | StepCount: 8 | Win rate: 0.741 | Total rewards: 0.720 | time: 111.1 seconds
+Episode: 085/1000 | Loss: 0.0033 | StepCount: 15 | Win rate: 0.744 | Total rewards: -1.020 | time: 112.2 seconds
+Episode: 086/1000 | Loss: 0.0035 | StepCount: 12 | Win rate: 0.747 | Total rewards: -1.400 | time: 113.0 seconds
+Episode: 087/1000 | Loss: 0.0018 | StepCount: 8 | Win rate: 0.750 | Total rewards: -1.040 | time: 113.6 seconds
+Episode: 088/1000 | Loss: 0.0047 | StepCount: 9 | Win rate: 0.753 | Total rewards: -0.780 | time: 114.1 seconds
+Episode: 089/1000 | Loss: 0.0033 | StepCount: 12 | Win rate: 0.756 | Total rewards: 0.560 | time: 114.9 seconds
+Episode: 090/1000 | Loss: 0.0022 | StepCount: 5 | Win rate: 0.758 | Total rewards: 0.840 | time: 115.3 seconds
+Episode: 091/1000 | Loss: 0.0030 | StepCount: 5 | Win rate: 0.761 | Total rewards: 0.130 | time: 115.6 seconds
+Episode: 092/1000 | Loss: 0.0017 | StepCount: 11 | Win rate: 0.763 | Total rewards: 0.100 | time: 116.3 seconds
+Episode: 093/1000 | Loss: 0.0017 | StepCount: 6 | Win rate: 0.766 | Total rewards: 0.800 | time: 116.7 seconds
+Episode: 094/1000 | Loss: 0.0014 | StepCount: 11 | Win rate: 0.768 | Total rewards: 0.600 | time: 117.4 seconds
+Episode: 095/1000 | Loss: 0.0040 | StepCount: 5 | Win rate: 0.771 | Total rewards: 0.090 | time: 117.8 seconds
+Episode: 096/1000 | Loss: 0.0021 | StepCount: 7 | Win rate: 0.773 | Total rewards: 0.760 | time: 118.2 seconds
+Episode: 097/1000 | Loss: 0.0012 | StepCount: 9 | Win rate: 0.776 | Total rewards: 0.680 | time: 118.8 seconds
+Episode: 098/1000 | Loss: 0.0026 | StepCount: 23 | Win rate: 0.778 | Total rewards: -2.340 | time: 120.4 seconds
+Episode: 099/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.780 | Total rewards: 0.640 | time: 121.1 seconds
+Episode: 100/1000 | Loss: 0.0072 | StepCount: 14 | Win rate: 0.782 | Total rewards: -1.440 | Average rewards: -3.468 | time: 122.1 seconds
+Episode: 101/1000 | Loss: 0.0011 | StepCount: 6 | Win rate: 0.784 | Total rewards: 0.800 | Average rewards: -3.326 | time: 122.5 seconds
+Episode: 102/1000 | Loss: 0.0051 | StepCount: 14 | Win rate: 0.786 | Total rewards: -0.020 | Average rewards: -3.197 | time: 123.4 seconds
+Episode: 103/1000 | Loss: 0.0023 | StepCount: 1 | Win rate: 0.788 | Total rewards: 1.000 | Average rewards: -3.050 | time: 123.5 seconds
+Episode: 104/1000 | Loss: 0.0025 | StepCount: 4 | Win rate: 0.790 | Total rewards: 0.880 | Average rewards: -2.911 | time: 123.7 seconds
+Episode: 105/1000 | Loss: 0.0019 | StepCount: 5 | Win rate: 0.792 | Total rewards: 0.840 | Average rewards: -2.774 | time: 124.1 seconds
+Episode: 106/1000 | Loss: 0.0019 | StepCount: 4 | Win rate: 0.794 | Total rewards: 0.170 | Average rewards: -2.638 | time: 124.3 seconds
+Episode: 107/1000 | Loss: 0.0017 | StepCount: 12 | Win rate: 0.796 | Total rewards: 0.060 | Average rewards: -2.505 | time: 125.1 seconds
+Episode: 108/1000 | Loss: 0.0018 | StepCount: 12 | Win rate: 0.798 | Total rewards: -1.360 | Average rewards: -2.382 | time: 125.9 seconds
+Episode: 109/1000 | Loss: 0.0069 | StepCount: 13 | Win rate: 0.800 | Total rewards: 0.020 | Average rewards: -2.251 | time: 126.8 seconds
+Episode: 110/1000 | Loss: 0.0014 | StepCount: 13 | Win rate: 0.802 | Total rewards: -0.530 | Average rewards: -2.128 | time: 127.7 seconds
+Episode: 111/1000 | Loss: 0.0015 | StepCount: 2 | Win rate: 0.804 | Total rewards: 0.960 | Average rewards: -1.989 | time: 127.9 seconds
+Episode: 112/1000 | Loss: 0.0022 | StepCount: 1 | Win rate: 0.805 | Total rewards: 1.000 | Average rewards: -1.849 | time: 128.0 seconds
+Episode: 113/1000 | Loss: 0.0010 | StepCount: 9 | Win rate: 0.807 | Total rewards: -0.370 | Average rewards: -1.719 | time: 128.6 seconds
+Episode: 114/1000 | Loss: 0.0022 | StepCount: 2 | Win rate: 0.809 | Total rewards: 0.960 | Average rewards: -1.570 | time: 128.8 seconds
+Episode: 115/1000 | Loss: 0.0025 | StepCount: 13 | Win rate: 0.810 | Total rewards: 0.520 | Average rewards: -1.436 | time: 129.7 seconds
+Episode: 116/1000 | Loss: 0.0018 | StepCount: 6 | Win rate: 0.812 | Total rewards: 0.800 | Average rewards: -1.299 | time: 130.1 seconds
+Episode: 117/1000 | Loss: 0.0023 | StepCount: 7 | Win rate: 0.814 | Total rewards: 0.760 | Average rewards: -1.156 | time: 130.6 seconds
+Episode: 118/1000 | Loss: 0.0030 | StepCount: 2 | Win rate: 0.815 | Total rewards: 0.960 | Average rewards: -1.047 | time: 130.8 seconds
+Episode: 119/1000 | Loss: 0.0011 | StepCount: 5 | Win rate: 0.817 | Total rewards: 0.840 | Average rewards: -0.909 | time: 131.2 seconds
+Episode: 120/1000 | Loss: 0.0014 | StepCount: 7 | Win rate: 0.818 | Total rewards: 0.760 | Average rewards: -0.772 | time: 131.7 seconds
+Episode: 121/1000 | Loss: 0.0027 | StepCount: 17 | Win rate: 0.820 | Total rewards: -0.390 | Average rewards: -0.739 | time: 132.9 seconds
+Episode: 122/1000 | Loss: 0.0010 | StepCount: 13 | Win rate: 0.821 | Total rewards: -1.030 | Average rewards: -0.736 | time: 133.8 seconds
+Episode: 123/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.823 | Total rewards: 0.640 | Average rewards: -0.598 | time: 134.5 seconds
+Episode: 124/1000 | Loss: 0.0018 | StepCount: 2 | Win rate: 0.824 | Total rewards: 0.710 | Average rewards: -0.454 | time: 134.6 seconds
+Episode: 125/1000 | Loss: 0.0020 | StepCount: 5 | Win rate: 0.825 | Total rewards: 0.840 | Average rewards: -0.392 | time: 135.0 seconds
+Episode: 126/1000 | Loss: 0.0026 | StepCount: 12 | Win rate: 0.827 | Total rewards: -1.450 | Average rewards: -0.351 | time: 135.8 seconds
+Episode: 127/1000 | Loss: 0.0019 | StepCount: 7 | Win rate: 0.828 | Total rewards: 0.260 | Average rewards: -0.351 | time: 136.4 seconds
+Episode: 128/1000 | Loss: 0.0035 | StepCount: 14 | Win rate: 0.829 | Total rewards: 0.230 | Average rewards: -0.351 | time: 137.4 seconds
+Episode: 129/1000 | Loss: 0.0021 | StepCount: 9 | Win rate: 0.831 | Total rewards: 0.680 | Average rewards: -0.339 | time: 138.0 seconds
+Episode: 130/1000 | Loss: 0.0032 | StepCount: 14 | Win rate: 0.832 | Total rewards: -0.020 | Average rewards: -0.342 | time: 139.0 seconds
+Episode: 131/1000 | Loss: 0.0040 | StepCount: 6 | Win rate: 0.833 | Total rewards: 0.550 | Average rewards: -0.330 | time: 139.4 seconds
+Episode: 132/1000 | Loss: 0.0028 | StepCount: 24 | Win rate: 0.835 | Total rewards: -2.980 | Average rewards: -0.369 | time: 141.1 seconds
+Episode: 133/1000 | Loss: 0.0040 | StepCount: 17 | Win rate: 0.836 | Total rewards: -1.190 | Average rewards: -0.389 | time: 142.4 seconds
+Episode: 134/1000 | Loss: 0.0012 | StepCount: 13 | Win rate: 0.837 | Total rewards: -0.480 | Average rewards: -0.364 | time: 143.3 seconds
+Episode: 135/1000 | Loss: 0.0052 | StepCount: 5 | Win rate: 0.838 | Total rewards: 0.840 | Average rewards: -0.340 | time: 143.6 seconds
+Episode: 136/1000 | Loss: 0.0020 | StepCount: 19 | Win rate: 0.839 | Total rewards: -1.470 | Average rewards: -0.355 | time: 145.0 seconds
+Episode: 137/1000 | Loss: 0.0015 | StepCount: 9 | Win rate: 0.841 | Total rewards: -0.280 | Average rewards: -0.312 | time: 145.6 seconds
+Episode: 138/1000 | Loss: 0.0023 | StepCount: 2 | Win rate: 0.842 | Total rewards: 0.960 | Average rewards: -0.275 | time: 145.8 seconds
+Episode: 139/1000 | Loss: 0.0016 | StepCount: 4 | Win rate: 0.843 | Total rewards: 0.880 | Average rewards: -0.268 | time: 146.1 seconds
+Episode: 140/1000 | Loss: 0.0021 | StepCount: 3 | Win rate: 0.844 | Total rewards: 0.920 | Average rewards: -0.259 | time: 146.3 seconds
+Episode: 141/1000 | Loss: 0.0011 | StepCount: 16 | Win rate: 0.845 | Total rewards: -2.700 | Average rewards: -0.287 | time: 147.5 seconds
+Episode: 142/1000 | Loss: 0.0011 | StepCount: 8 | Win rate: 0.846 | Total rewards: 0.720 | Average rewards: -0.283 | time: 148.1 seconds
+Episode: 143/1000 | Loss: 0.0015 | StepCount: 6 | Win rate: 0.847 | Total rewards: 0.800 | Average rewards: -0.276 | time: 148.5 seconds
+Episode: 144/1000 | Loss: 0.0020 | StepCount: 13 | Win rate: 0.848 | Total rewards: -0.190 | Average rewards: -0.278 | time: 149.4 seconds
+Episode: 145/1000 | Loss: 0.0033 | StepCount: 20 | Win rate: 0.849 | Total rewards: -0.760 | Average rewards: -0.292 | time: 150.8 seconds
+Episode: 146/1000 | Loss: 0.0030 | StepCount: 4 | Win rate: 0.850 | Total rewards: 0.880 | Average rewards: -0.283 | time: 151.1 seconds
+Episode: 147/1000 | Loss: 0.0030 | StepCount: 3 | Win rate: 0.851 | Total rewards: 0.920 | Average rewards: -0.275 | time: 151.4 seconds
+Episode: 148/1000 | Loss: 0.0014 | StepCount: 11 | Win rate: 0.852 | Total rewards: 0.350 | Average rewards: -0.248 | time: 152.2 seconds
+Episode: 149/1000 | Loss: 0.0052 | StepCount: 13 | Win rate: 0.853 | Total rewards: -0.230 | Average rewards: -0.187 | time: 153.1 seconds
+Episode: 150/1000 | Loss: 0.0012 | StepCount: 5 | Win rate: 0.854 | Total rewards: 0.840 | Average rewards: -0.168 | time: 153.5 seconds
+Episode: 151/1000 | Loss: 0.0019 | StepCount: 7 | Win rate: 0.855 | Total rewards: 0.760 | Average rewards: -0.131 | time: 154.0 seconds
+Episode: 152/1000 | Loss: 0.0007 | StepCount: 17 | Win rate: 0.856 | Total rewards: 0.110 | Average rewards: -0.140 | time: 155.2 seconds
+Episode: 153/1000 | Loss: 0.0014 | StepCount: 8 | Win rate: 0.857 | Total rewards: 0.720 | Average rewards: -0.118 | time: 155.8 seconds
+Episode: 154/1000 | Loss: 0.0033 | StepCount: 4 | Win rate: 0.858 | Total rewards: 0.880 | Average rewards: -0.098 | time: 156.1 seconds
+Episode: 155/1000 | Loss: 0.0010 | StepCount: 15 | Win rate: 0.859 | Total rewards: -0.770 | Average rewards: -0.106 | time: 157.2 seconds
+Episode: 156/1000 | Loss: 0.0034 | StepCount: 2 | Win rate: 0.860 | Total rewards: 0.960 | Average rewards: -0.096 | time: 157.3 seconds
+Episode: 157/1000 | Loss: 0.0015 | StepCount: 7 | Win rate: 0.861 | Total rewards: 0.760 | Average rewards: -0.037 | time: 157.8 seconds
+Episode: 158/1000 | Loss: 0.0005 | StepCount: 12 | Win rate: 0.862 | Total rewards: 0.560 | Average rewards: -0.013 | time: 158.7 seconds
+Episode: 159/1000 | Loss: 0.0032 | StepCount: 18 | Win rate: 0.863 | Total rewards: -1.780 | Average rewards: -0.002 | time: 159.9 seconds
+Episode: 160/1000 | Loss: 0.0033 | StepCount: 8 | Win rate: 0.863 | Total rewards: -0.580 | Average rewards: -0.004 | time: 160.5 seconds
+Episode: 161/1000 | Loss: 0.0012 | StepCount: 14 | Win rate: 0.864 | Total rewards: -0.020 | Average rewards: -0.005 | time: 161.5 seconds
+Episode: 162/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.865 | Total rewards: 0.640 | Average rewards: 0.007 | time: 162.2 seconds
+Episode: 163/1000 | Loss: 0.0021 | StepCount: 14 | Win rate: 0.866 | Total rewards: -0.980 | Average rewards: 0.005 | time: 163.3 seconds
+Episode: 164/1000 | Loss: 0.0016 | StepCount: 13 | Win rate: 0.867 | Total rewards: -0.480 | Average rewards: 0.002 | time: 164.2 seconds
+Episode: 165/1000 | Loss: 0.0005 | StepCount: 20 | Win rate: 0.867 | Total rewards: -1.220 | Average rewards: 0.001 | time: 165.6 seconds
+Episode: 166/1000 | Loss: 0.0016 | StepCount: 14 | Win rate: 0.868 | Total rewards: 0.480 | Average rewards: 0.005 | time: 166.6 seconds
+Episode: 167/1000 | Loss: 0.0015 | StepCount: 6 | Win rate: 0.869 | Total rewards: 0.800 | Average rewards: 0.005 | time: 167.0 seconds
+Episode: 168/1000 | Loss: 0.0021 | StepCount: 10 | Win rate: 0.870 | Total rewards: -0.410 | Average rewards: 0.009 | time: 167.8 seconds
+Episode: 169/1000 | Loss: 0.0017 | StepCount: 6 | Win rate: 0.871 | Total rewards: -0.250 | Average rewards: 0.010 | time: 168.2 seconds
+Episode: 170/1000 | Loss: 0.0052 | StepCount: 11 | Win rate: 0.871 | Total rewards: 0.600 | Average rewards: 0.010 | time: 169.0 seconds
+Episode: 171/1000 | Loss: 0.0012 | StepCount: 4 | Win rate: 0.872 | Total rewards: 0.880 | Average rewards: 0.016 | time: 169.3 seconds
+Episode: 172/1000 | Loss: 0.0013 | StepCount: 18 | Win rate: 0.873 | Total rewards: -1.230 | Average rewards: 0.005 | time: 170.7 seconds
+Episode: 173/1000 | Loss: 0.0012 | StepCount: 6 | Win rate: 0.874 | Total rewards: 0.800 | Average rewards: 0.003 | time: 171.1 seconds
+Episode: 174/1000 | Loss: 0.0011 | StepCount: 5 | Win rate: 0.874 | Total rewards: 0.840 | Average rewards: 0.010 | time: 171.5 seconds
+Episode: 175/1000 | Loss: 0.0008 | StepCount: 12 | Win rate: 0.875 | Total rewards: 0.560 | Average rewards: 0.015 | time: 172.4 seconds
+Episode: 176/1000 | Loss: 0.0039 | StepCount: 12 | Win rate: 0.876 | Total rewards: 0.560 | Average rewards: 0.025 | time: 173.2 seconds
+Episode: 177/1000 | Loss: 0.0026 | StepCount: 3 | Win rate: 0.876 | Total rewards: -0.130 | Average rewards: 0.024 | time: 173.5 seconds
+Episode: 178/1000 | Loss: 0.0010 | StepCount: 10 | Win rate: 0.877 | Total rewards: 0.640 | Average rewards: 0.031 | time: 174.2 seconds
+Episode: 179/1000 | Loss: 0.0033 | StepCount: 9 | Win rate: 0.878 | Total rewards: 0.430 | Average rewards: 0.029 | time: 174.9 seconds
+Episode: 180/1000 | Loss: 0.0009 | StepCount: 4 | Win rate: 0.878 | Total rewards: 0.880 | Average rewards: 0.067 | time: 175.2 seconds
+Episode: 181/1000 | Loss: 0.0020 | StepCount: 14 | Win rate: 0.879 | Total rewards: 0.230 | Average rewards: 0.102 | time: 176.2 seconds
+Episode: 182/1000 | Loss: 0.0052 | StepCount: 14 | Win rate: 0.880 | Total rewards: -0.570 | Average rewards: 0.099 | time: 177.2 seconds
+Episode: 183/1000 | Loss: 0.0008 | StepCount: 16 | Win rate: 0.880 | Total rewards: 0.400 | Average rewards: 0.109 | time: 178.3 seconds
+Episode: 184/1000 | Loss: 0.0016 | StepCount: 9 | Win rate: 0.881 | Total rewards: 0.680 | Average rewards: 0.108 | time: 179.0 seconds
+Episode: 185/1000 | Loss: 0.0025 | StepCount: 16 | Win rate: 0.882 | Total rewards: -0.100 | Average rewards: 0.117 | time: 180.2 seconds
+Episode: 186/1000 | Loss: 0.0014 | StepCount: 10 | Win rate: 0.882 | Total rewards: 0.140 | Average rewards: 0.133 | time: 180.9 seconds
+Episode: 187/1000 | Loss: 0.0015 | StepCount: 5 | Win rate: 0.883 | Total rewards: 0.840 | Average rewards: 0.152 | time: 181.3 seconds
+Episode: 188/1000 | Loss: 0.0031 | StepCount: 6 | Win rate: 0.884 | Total rewards: 0.550 | Average rewards: 0.165 | time: 181.7 seconds
+Episode: 189/1000 | Loss: 0.0019 | StepCount: 10 | Win rate: 0.884 | Total rewards: 0.640 | Average rewards: 0.166 | time: 182.4 seconds
+Episode: 190/1000 | Loss: 0.0013 | StepCount: 2 | Win rate: 0.885 | Total rewards: 0.960 | Average rewards: 0.167 | time: 182.6 seconds
+Episode: 191/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.885 | Total rewards: 0.390 | Average rewards: 0.170 | time: 183.4 seconds
+Episode: 192/1000 | Loss: 0.0009 | StepCount: 12 | Win rate: 0.886 | Total rewards: 0.560 | Average rewards: 0.174 | time: 184.2 seconds
+Episode: 193/1000 | Loss: 0.0019 | StepCount: 5 | Win rate: 0.887 | Total rewards: 0.840 | Average rewards: 0.175 | time: 184.6 seconds
+Episode: 194/1000 | Loss: 0.0022 | StepCount: 24 | Win rate: 0.887 | Total rewards: -1.920 | Average rewards: 0.149 | time: 186.3 seconds
+Episode: 195/1000 | Loss: 0.0017 | StepCount: 5 | Win rate: 0.888 | Total rewards: 0.840 | Average rewards: 0.157 | time: 186.7 seconds
+Episode: 196/1000 | Loss: 0.0027 | StepCount: 2 | Win rate: 0.888 | Total rewards: 0.960 | Average rewards: 0.159 | time: 186.9 seconds
+Episode: 197/1000 | Loss: 0.0016 | StepCount: 10 | Win rate: 0.889 | Total rewards: 0.140 | Average rewards: 0.153 | time: 187.6 seconds
+Episode: 198/1000 | Loss: 0.0038 | StepCount: 11 | Win rate: 0.889 | Total rewards: 0.100 | Average rewards: 0.178 | time: 188.4 seconds
+Episode: 199/1000 | Loss: 0.0009 | StepCount: 13 | Win rate: 0.890 | Total rewards: -1.030 | Average rewards: 0.161 | time: 189.3 seconds
+Episode: 200/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.891 | Total rewards: 0.640 | Average rewards: 0.182 | time: 190.0 seconds
+Episode: 201/1000 | Loss: 0.0017 | StepCount: 9 | Win rate: 0.891 | Total rewards: 0.680 | Average rewards: 0.181 | time: 190.6 seconds
+Episode: 202/1000 | Loss: 0.0008 | StepCount: 11 | Win rate: 0.892 | Total rewards: 0.100 | Average rewards: 0.182 | time: 191.3 seconds
+Episode: 203/1000 | Loss: 0.0015 | StepCount: 12 | Win rate: 0.892 | Total rewards: 0.560 | Average rewards: 0.178 | time: 192.2 seconds
+Episode: 204/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.893 | Total rewards: 0.680 | Average rewards: 0.176 | time: 192.8 seconds
+Episode: 205/1000 | Loss: 0.0021 | StepCount: 9 | Win rate: 0.893 | Total rewards: 0.680 | Average rewards: 0.174 | time: 193.5 seconds
+Episode: 206/1000 | Loss: 0.0004 | StepCount: 8 | Win rate: 0.894 | Total rewards: 0.720 | Average rewards: 0.179 | time: 194.0 seconds
+Episode: 207/1000 | Loss: 0.0010 | StepCount: 13 | Win rate: 0.894 | Total rewards: 0.020 | Average rewards: 0.179 | time: 195.0 seconds
+Episode: 208/1000 | Loss: 0.0004 | StepCount: 13 | Win rate: 0.895 | Total rewards: -0.440 | Average rewards: 0.188 | time: 195.9 seconds
+Episode: 209/1000 | Loss: 0.0018 | StepCount: 6 | Win rate: 0.895 | Total rewards: -0.160 | Average rewards: 0.186 | time: 196.4 seconds
+Episode: 210/1000 | Loss: 0.0009 | StepCount: 13 | Win rate: 0.896 | Total rewards: 0.270 | Average rewards: 0.194 | time: 197.3 seconds
+Episode: 211/1000 | Loss: 0.0025 | StepCount: 11 | Win rate: 0.896 | Total rewards: 0.600 | Average rewards: 0.191 | time: 198.1 seconds
+Episode: 212/1000 | Loss: 0.0022 | StepCount: 12 | Win rate: 0.897 | Total rewards: 0.060 | Average rewards: 0.181 | time: 199.0 seconds
+Episode: 213/1000 | Loss: 0.0007 | StepCount: 5 | Win rate: 0.897 | Total rewards: 0.840 | Average rewards: 0.194 | time: 199.3 seconds
+Episode: 214/1000 | Loss: 0.0022 | StepCount: 1 | Win rate: 0.898 | Total rewards: -0.050 | Average rewards: 0.183 | time: 199.4 seconds
+Episode: 215/1000 | Loss: 0.0009 | StepCount: 20 | Win rate: 0.898 | Total rewards: -2.560 | Average rewards: 0.153 | time: 200.9 seconds
+Episode: 216/1000 | Loss: 0.0023 | StepCount: 4 | Win rate: 0.899 | Total rewards: 0.880 | Average rewards: 0.153 | time: 201.2 seconds
+Episode: 217/1000 | Loss: 0.0016 | StepCount: 11 | Win rate: 0.899 | Total rewards: 0.350 | Average rewards: 0.149 | time: 202.0 seconds
+Episode: 218/1000 | Loss: 0.0005 | StepCount: 13 | Win rate: 0.900 | Total rewards: 0.020 | Average rewards: 0.140 | time: 202.9 seconds
+Episode: 219/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.900 | Total rewards: 0.840 | Average rewards: 0.140 | time: 203.3 seconds
+Episode: 220/1000 | Loss: 0.0015 | StepCount: 11 | Win rate: 0.900 | Total rewards: -0.450 | Average rewards: 0.128 | time: 204.1 seconds
+Episode: 221/1000 | Loss: 0.0010 | StepCount: 1 | Win rate: 0.901 | Total rewards: -0.050 | Average rewards: 0.131 | time: 204.2 seconds
+Episode: 222/1000 | Loss: 0.0008 | StepCount: 8 | Win rate: 0.901 | Total rewards: 0.720 | Average rewards: 0.149 | time: 204.8 seconds
+Episode: 223/1000 | Loss: 0.0019 | StepCount: 9 | Win rate: 0.902 | Total rewards: 0.680 | Average rewards: 0.149 | time: 205.4 seconds
+Episode: 224/1000 | Loss: 0.0008 | StepCount: 12 | Win rate: 0.902 | Total rewards: 0.560 | Average rewards: 0.148 | time: 206.4 seconds
+Episode: 225/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.903 | Total rewards: 0.640 | Average rewards: 0.146 | time: 207.1 seconds
+Episode: 226/1000 | Loss: 0.0016 | StepCount: 9 | Win rate: 0.903 | Total rewards: 0.180 | Average rewards: 0.162 | time: 207.7 seconds
+Episode: 227/1000 | Loss: 0.0018 | StepCount: 8 | Win rate: 0.904 | Total rewards: 0.010 | Average rewards: 0.159 | time: 208.3 seconds
+Episode: 228/1000 | Loss: 0.0007 | StepCount: 4 | Win rate: 0.904 | Total rewards: 0.880 | Average rewards: 0.166 | time: 208.6 seconds
+Episode: 229/1000 | Loss: 0.0016 | StepCount: 3 | Win rate: 0.904 | Total rewards: 0.920 | Average rewards: 0.168 | time: 208.8 seconds
+Episode: 230/1000 | Loss: 0.0011 | StepCount: 7 | Win rate: 0.905 | Total rewards: 0.510 | Average rewards: 0.174 | time: 209.4 seconds
+Episode: 231/1000 | Loss: 0.0007 | StepCount: 12 | Win rate: 0.905 | Total rewards: 0.560 | Average rewards: 0.174 | time: 210.2 seconds
+Episode: 232/1000 | Loss: 0.0009 | StepCount: 7 | Win rate: 0.906 | Total rewards: -0.290 | Average rewards: 0.201 | time: 210.8 seconds
+Episode: 233/1000 | Loss: 0.0014 | StepCount: 7 | Win rate: 0.906 | Total rewards: 0.510 | Average rewards: 0.218 | time: 211.3 seconds
+Episode: 234/1000 | Loss: 0.0006 | StepCount: 14 | Win rate: 0.906 | Total rewards: -0.020 | Average rewards: 0.222 | time: 212.3 seconds
+Episode: 235/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.907 | Total rewards: 0.840 | Average rewards: 0.222 | time: 212.7 seconds
+Episode: 236/1000 | Loss: 0.0006 | StepCount: 12 | Win rate: 0.907 | Total rewards: -0.440 | Average rewards: 0.233 | time: 213.6 seconds
+Episode: 237/1000 | Loss: 0.0013 | StepCount: 12 | Win rate: 0.908 | Total rewards: 0.310 | Average rewards: 0.238 | time: 214.4 seconds
+Episode: 238/1000 | Loss: 0.0009 | StepCount: 20 | Win rate: 0.908 | Total rewards: -1.220 | Average rewards: 0.217 | time: 215.9 seconds
+Episode: 239/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.908 | Total rewards: 0.390 | Average rewards: 0.212 | time: 216.6 seconds
+Episode: 240/1000 | Loss: 0.0015 | StepCount: 12 | Win rate: 0.909 | Total rewards: -0.990 | Average rewards: 0.193 | time: 217.5 seconds
+Episode: 241/1000 | Loss: 0.0011 | StepCount: 11 | Win rate: 0.909 | Total rewards: 0.600 | Average rewards: 0.226 | time: 218.3 seconds
+Episode: 242/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.909 | Total rewards: 0.390 | Average rewards: 0.222 | time: 219.0 seconds
+Episode: 243/1000 | Loss: 0.0014 | StepCount: 2 | Win rate: 0.910 | Total rewards: 0.960 | Average rewards: 0.224 | time: 219.2 seconds
+Episode: 244/1000 | Loss: 0.0030 | StepCount: 15 | Win rate: 0.910 | Total rewards: -0.060 | Average rewards: 0.225 | time: 220.3 seconds
+Episode: 245/1000 | Loss: 0.0015 | StepCount: 7 | Win rate: 0.911 | Total rewards: -0.290 | Average rewards: 0.230 | time: 220.9 seconds
+Episode: 246/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.911 | Total rewards: 0.640 | Average rewards: 0.228 | time: 221.6 seconds
+Episode: 247/1000 | Loss: 0.0018 | StepCount: 2 | Win rate: 0.911 | Total rewards: 0.960 | Average rewards: 0.228 | time: 221.8 seconds
+Episode: 248/1000 | Loss: 0.0006 | StepCount: 12 | Win rate: 0.912 | Total rewards: 0.060 | Average rewards: 0.225 | time: 222.7 seconds
+Episode: 249/1000 | Loss: 0.0008 | StepCount: 2 | Win rate: 0.912 | Total rewards: 0.960 | Average rewards: 0.237 | time: 222.8 seconds
+Episode: 250/1000 | Loss: 0.0012 | StepCount: 12 | Win rate: 0.912 | Total rewards: 0.560 | Average rewards: 0.234 | time: 223.8 seconds
+Episode: 251/1000 | Loss: 0.0004 | StepCount: 14 | Win rate: 0.913 | Total rewards: 0.230 | Average rewards: 0.229 | time: 224.8 seconds
+Episode: 252/1000 | Loss: 0.0009 | StepCount: 7 | Win rate: 0.913 | Total rewards: 0.760 | Average rewards: 0.235 | time: 225.3 seconds
+Episode: 253/1000 | Loss: 0.0009 | StepCount: 7 | Win rate: 0.913 | Total rewards: 0.760 | Average rewards: 0.236 | time: 225.9 seconds
+Episode: 254/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.914 | Total rewards: 0.060 | Average rewards: 0.228 | time: 226.7 seconds
+Episode: 255/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.914 | Total rewards: 0.640 | Average rewards: 0.242 | time: 227.5 seconds
+Episode: 256/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.914 | Total rewards: 0.640 | Average rewards: 0.238 | time: 228.2 seconds
+Episode: 257/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.915 | Total rewards: 0.640 | Average rewards: 0.237 | time: 228.9 seconds
+Episode: 258/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.915 | Total rewards: 0.560 | Average rewards: 0.237 | time: 229.8 seconds
+Episode: 259/1000 | Loss: 0.0005 | StepCount: 8 | Win rate: 0.915 | Total rewards: 0.720 | Average rewards: 0.262 | time: 230.4 seconds
+Episode: 260/1000 | Loss: 0.0021 | StepCount: 12 | Win rate: 0.916 | Total rewards: 0.060 | Average rewards: 0.269 | time: 231.2 seconds
+Episode: 261/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.916 | Total rewards: 0.470 | Average rewards: 0.274 | time: 231.8 seconds
+Episode: 262/1000 | Loss: 0.0010 | StepCount: 16 | Win rate: 0.916 | Total rewards: 0.400 | Average rewards: 0.271 | time: 232.9 seconds
+Episode: 263/1000 | Loss: 0.0011 | StepCount: 6 | Win rate: 0.917 | Total rewards: 0.800 | Average rewards: 0.289 | time: 233.4 seconds
+Episode: 264/1000 | Loss: 0.0005 | StepCount: 5 | Win rate: 0.917 | Total rewards: 0.340 | Average rewards: 0.297 | time: 233.8 seconds
+Episode: 265/1000 | Loss: 0.0006 | StepCount: 5 | Win rate: 0.917 | Total rewards: 0.840 | Average rewards: 0.318 | time: 234.1 seconds
+Episode: 266/1000 | Loss: 0.0009 | StepCount: 2 | Win rate: 0.918 | Total rewards: 0.710 | Average rewards: 0.320 | time: 234.3 seconds
+Episode: 267/1000 | Loss: 0.0004 | StepCount: 14 | Win rate: 0.918 | Total rewards: 0.480 | Average rewards: 0.317 | time: 235.3 seconds
+Episode: 268/1000 | Loss: 0.0018 | StepCount: 7 | Win rate: 0.918 | Total rewards: 0.760 | Average rewards: 0.329 | time: 235.8 seconds
+Episode: 269/1000 | Loss: 0.0018 | StepCount: 6 | Win rate: 0.919 | Total rewards: 0.800 | Average rewards: 0.339 | time: 236.3 seconds
+Episode: 270/1000 | Loss: 0.0014 | StepCount: 7 | Win rate: 0.919 | Total rewards: 0.510 | Average rewards: 0.338 | time: 236.8 seconds
+Episode: 271/1000 | Loss: 0.0007 | StepCount: 5 | Win rate: 0.919 | Total rewards: 0.840 | Average rewards: 0.338 | time: 237.2 seconds
+Episode: 272/1000 | Loss: 0.0019 | StepCount: 14 | Win rate: 0.919 | Total rewards: -0.020 | Average rewards: 0.350 | time: 238.2 seconds
+Episode: 273/1000 | Loss: 0.0017 | StepCount: 19 | Win rate: 0.920 | Total rewards: -0.970 | Average rewards: 0.332 | time: 239.6 seconds
+Episode: 274/1000 | Loss: 0.0009 | StepCount: 11 | Win rate: 0.920 | Total rewards: 0.350 | Average rewards: 0.327 | time: 240.3 seconds
+Episode: 275/1000 | Loss: 0.0009 | StepCount: 5 | Win rate: 0.920 | Total rewards: 0.840 | Average rewards: 0.330 | time: 240.8 seconds
+Episode: 276/1000 | Loss: 0.0020 | StepCount: 2 | Win rate: 0.921 | Total rewards: 0.710 | Average rewards: 0.332 | time: 240.9 seconds
+Episode: 277/1000 | Loss: 0.0005 | StepCount: 2 | Win rate: 0.921 | Total rewards: 0.960 | Average rewards: 0.343 | time: 241.1 seconds
+Episode: 278/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.921 | Total rewards: 0.720 | Average rewards: 0.343 | time: 241.7 seconds
+Episode: 279/1000 | Loss: 0.0016 | StepCount: 10 | Win rate: 0.921 | Total rewards: 0.390 | Average rewards: 0.343 | time: 242.5 seconds
+Episode: 280/1000 | Loss: 0.0014 | StepCount: 2 | Win rate: 0.922 | Total rewards: 0.960 | Average rewards: 0.344 | time: 242.6 seconds
+Episode: 281/1000 | Loss: 0.0011 | StepCount: 5 | Win rate: 0.922 | Total rewards: 0.840 | Average rewards: 0.350 | time: 243.1 seconds
+Episode: 282/1000 | Loss: 0.0012 | StepCount: 4 | Win rate: 0.922 | Total rewards: 0.880 | Average rewards: 0.364 | time: 243.4 seconds
+Episode: 283/1000 | Loss: 0.0009 | StepCount: 4 | Win rate: 0.923 | Total rewards: 0.880 | Average rewards: 0.369 | time: 243.7 seconds
+Episode: 284/1000 | Loss: 0.0008 | StepCount: 6 | Win rate: 0.923 | Total rewards: 0.800 | Average rewards: 0.370 | time: 244.2 seconds
+Episode: 285/1000 | Loss: 0.0006 | StepCount: 4 | Win rate: 0.923 | Total rewards: 0.880 | Average rewards: 0.380 | time: 244.5 seconds
+Episode: 286/1000 | Loss: 0.0010 | StepCount: 1 | Win rate: 0.923 | Total rewards: 1.000 | Average rewards: 0.389 | time: 244.6 seconds
+Episode: 287/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.924 | Total rewards: 0.720 | Average rewards: 0.388 | time: 245.2 seconds
+Episode: 288/1000 | Loss: 0.0011 | StepCount: 8 | Win rate: 0.924 | Total rewards: 0.720 | Average rewards: 0.389 | time: 245.8 seconds
+Episode: 289/1000 | Loss: 0.0002 | StepCount: 15 | Win rate: 0.924 | Total rewards: -1.360 | Average rewards: 0.369 | time: 246.9 seconds
+Episode: 290/1000 | Loss: 0.0016 | StepCount: 3 | Win rate: 0.924 | Total rewards: 0.920 | Average rewards: 0.369 | time: 247.2 seconds
+Episode: 291/1000 | Loss: 0.0007 | StepCount: 6 | Win rate: 0.925 | Total rewards: 0.800 | Average rewards: 0.373 | time: 247.6 seconds
+Episode: 292/1000 | Loss: 0.0037 | StepCount: 8 | Win rate: 0.925 | Total rewards: 0.470 | Average rewards: 0.372 | time: 248.2 seconds
+Episode: 293/1000 | Loss: 0.0007 | StepCount: 7 | Win rate: 0.925 | Total rewards: 0.760 | Average rewards: 0.371 | time: 248.7 seconds
+Episode: 294/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.925 | Total rewards: 0.680 | Average rewards: 0.397 | time: 249.5 seconds
+Episode: 295/1000 | Loss: 0.0006 | StepCount: 6 | Win rate: 0.926 | Total rewards: 0.800 | Average rewards: 0.397 | time: 249.9 seconds
+Episode: 296/1000 | Loss: 0.0008 | StepCount: 7 | Win rate: 0.926 | Total rewards: 0.760 | Average rewards: 0.395 | time: 250.5 seconds
+Episode: 297/1000 | Loss: 0.0005 | StepCount: 10 | Win rate: 0.926 | Total rewards: -0.070 | Average rewards: 0.393 | time: 251.2 seconds
+Episode: 298/1000 | Loss: 0.0012 | StepCount: 14 | Win rate: 0.926 | Total rewards: -0.020 | Average rewards: 0.391 | time: 252.2 seconds
+Episode: 299/1000 | Loss: 0.0007 | StepCount: 7 | Win rate: 0.927 | Total rewards: 0.760 | Average rewards: 0.409 | time: 252.8 seconds
+Episode: 300/1000 | Loss: 0.0005 | StepCount: 28 | Win rate: 0.927 | Total rewards: -4.630 | Average rewards: 0.357 | time: 254.8 seconds
+Episode: 301/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.927 | Total rewards: 0.720 | Average rewards: 0.357 | time: 255.4 seconds
+Episode: 302/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.927 | Total rewards: 0.640 | Average rewards: 0.362 | time: 256.2 seconds
+Episode: 303/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.928 | Total rewards: 0.310 | Average rewards: 0.360 | time: 257.1 seconds
+Episode: 304/1000 | Loss: 0.0021 | StepCount: 14 | Win rate: 0.928 | Total rewards: -0.020 | Average rewards: 0.353 | time: 258.1 seconds
+Episode: 305/1000 | Loss: 0.0016 | StepCount: 17 | Win rate: 0.928 | Total rewards: -1.190 | Average rewards: 0.334 | time: 259.4 seconds
+Episode: 306/1000 | Loss: 0.0010 | StepCount: 1 | Win rate: 0.928 | Total rewards: 1.000 | Average rewards: 0.337 | time: 259.5 seconds
+Episode: 307/1000 | Loss: 0.0006 | StepCount: 10 | Win rate: 0.929 | Total rewards: 0.640 | Average rewards: 0.343 | time: 260.3 seconds
+Episode: 308/1000 | Loss: 0.0032 | StepCount: 10 | Win rate: 0.929 | Total rewards: 0.640 | Average rewards: 0.354 | time: 261.0 seconds
+Episode: 309/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.929 | Total rewards: 0.640 | Average rewards: 0.362 | time: 261.8 seconds
+Episode: 310/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.929 | Total rewards: -0.490 | Average rewards: 0.354 | time: 262.6 seconds
+Episode: 311/1000 | Loss: 0.0022 | StepCount: 4 | Win rate: 0.929 | Total rewards: 0.880 | Average rewards: 0.357 | time: 263.0 seconds
+Episode: 312/1000 | Loss: 0.0024 | StepCount: 22 | Win rate: 0.930 | Total rewards: -2.390 | Average rewards: 0.333 | time: 264.6 seconds
+Episode: 313/1000 | Loss: 0.0023 | StepCount: 13 | Win rate: 0.930 | Total rewards: -0.480 | Average rewards: 0.320 | time: 265.5 seconds
+Episode: 314/1000 | Loss: 0.0020 | StepCount: 9 | Win rate: 0.930 | Total rewards: 0.680 | Average rewards: 0.327 | time: 266.2 seconds
+Episode: 315/1000 | Loss: 0.0019 | StepCount: 19 | Win rate: 0.930 | Total rewards: -0.220 | Average rewards: 0.350 | time: 267.6 seconds
+Episode: 316/1000 | Loss: 0.0021 | StepCount: 4 | Win rate: 0.931 | Total rewards: 0.880 | Average rewards: 0.350 | time: 267.9 seconds
+Episode: 317/1000 | Loss: 0.0006 | StepCount: 5 | Win rate: 0.931 | Total rewards: 0.840 | Average rewards: 0.355 | time: 268.3 seconds
+Episode: 318/1000 | Loss: 0.0010 | StepCount: 10 | Win rate: 0.931 | Total rewards: 0.390 | Average rewards: 0.359 | time: 269.1 seconds
+Episode: 319/1000 | Loss: 0.0012 | StepCount: 8 | Win rate: 0.931 | Total rewards: 0.720 | Average rewards: 0.358 | time: 269.7 seconds
+Episode: 320/1000 | Loss: 0.0052 | StepCount: 7 | Win rate: 0.931 | Total rewards: 0.260 | Average rewards: 0.365 | time: 270.3 seconds
+Episode: 321/1000 | Loss: 0.0015 | StepCount: 14 | Win rate: 0.932 | Total rewards: 0.480 | Average rewards: 0.370 | time: 271.3 seconds
+Episode: 322/1000 | Loss: 0.0077 | StepCount: 8 | Win rate: 0.932 | Total rewards: 0.720 | Average rewards: 0.370 | time: 271.9 seconds
+Episode: 323/1000 | Loss: 0.0012 | StepCount: 1 | Win rate: 0.932 | Total rewards: 1.000 | Average rewards: 0.373 | time: 272.0 seconds
+Episode: 324/1000 | Loss: 0.0022 | StepCount: 8 | Win rate: 0.932 | Total rewards: 0.720 | Average rewards: 0.375 | time: 272.6 seconds
+Episode: 325/1000 | Loss: 0.0015 | StepCount: 11 | Win rate: 0.933 | Total rewards: 0.600 | Average rewards: 0.374 | time: 273.5 seconds
+Episode: 326/1000 | Loss: 0.0025 | StepCount: 9 | Win rate: 0.933 | Total rewards: -0.370 | Average rewards: 0.369 | time: 274.2 seconds
+Episode: 327/1000 | Loss: 0.0002 | StepCount: 6 | Win rate: 0.933 | Total rewards: 0.800 | Average rewards: 0.377 | time: 274.6 seconds
+Episode: 328/1000 | Loss: 0.0013 | StepCount: 8 | Win rate: 0.933 | Total rewards: 0.720 | Average rewards: 0.375 | time: 275.2 seconds
+Episode: 329/1000 | Loss: 0.0006 | StepCount: 4 | Win rate: 0.933 | Total rewards: 0.880 | Average rewards: 0.375 | time: 275.5 seconds
+Episode: 330/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.934 | Total rewards: -0.070 | Average rewards: 0.369 | time: 276.3 seconds
+Episode: 331/1000 | Loss: 0.0013 | StepCount: 10 | Win rate: 0.934 | Total rewards: -0.410 | Average rewards: 0.359 | time: 277.0 seconds
+Episode: 332/1000 | Loss: 0.0022 | StepCount: 11 | Win rate: 0.934 | Total rewards: 0.100 | Average rewards: 0.363 | time: 277.8 seconds
+Episode: 333/1000 | Loss: 0.0013 | StepCount: 8 | Win rate: 0.934 | Total rewards: 0.720 | Average rewards: 0.365 | time: 278.5 seconds
+Episode: 334/1000 | Loss: 0.0012 | StepCount: 15 | Win rate: 0.934 | Total rewards: -0.810 | Average rewards: 0.358 | time: 279.6 seconds
+Episode: 335/1000 | Loss: 0.0008 | StepCount: 4 | Win rate: 0.935 | Total rewards: 0.880 | Average rewards: 0.358 | time: 280.0 seconds
+Episode: 336/1000 | Loss: 0.0007 | StepCount: 7 | Win rate: 0.935 | Total rewards: 0.760 | Average rewards: 0.370 | time: 280.5 seconds
+Episode: 337/1000 | Loss: 0.0007 | StepCount: 8 | Win rate: 0.935 | Total rewards: 0.720 | Average rewards: 0.374 | time: 281.1 seconds
+Episode: 338/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.935 | Total rewards: 0.390 | Average rewards: 0.390 | time: 281.9 seconds
+Episode: 339/1000 | Loss: 0.0010 | StepCount: 10 | Win rate: 0.935 | Total rewards: 0.140 | Average rewards: 0.388 | time: 282.6 seconds
+Episode: 340/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.935 | Total rewards: 0.840 | Average rewards: 0.406 | time: 283.1 seconds
+Episode: 341/1000 | Loss: 0.0018 | StepCount: 11 | Win rate: 0.936 | Total rewards: 0.600 | Average rewards: 0.406 | time: 283.9 seconds
+Episode: 342/1000 | Loss: 0.0011 | StepCount: 6 | Win rate: 0.936 | Total rewards: 0.050 | Average rewards: 0.403 | time: 284.4 seconds
+Episode: 343/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.936 | Total rewards: 0.220 | Average rewards: 0.395 | time: 285.0 seconds
+Episode: 344/1000 | Loss: 0.0009 | StepCount: 8 | Win rate: 0.936 | Total rewards: 0.720 | Average rewards: 0.403 | time: 285.6 seconds
+Episode: 345/1000 | Loss: 0.0013 | StepCount: 9 | Win rate: 0.936 | Total rewards: -0.070 | Average rewards: 0.405 | time: 286.3 seconds
+Episode: 346/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.937 | Total rewards: 0.220 | Average rewards: 0.401 | time: 286.9 seconds
+Episode: 347/1000 | Loss: 0.0033 | StepCount: 3 | Win rate: 0.937 | Total rewards: 0.920 | Average rewards: 0.400 | time: 287.2 seconds
+Episode: 348/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.937 | Total rewards: 0.640 | Average rewards: 0.406 | time: 288.0 seconds
+Episode: 349/1000 | Loss: 0.0008 | StepCount: 13 | Win rate: 0.937 | Total rewards: 0.020 | Average rewards: 0.397 | time: 289.0 seconds
+Episode: 350/1000 | Loss: 0.0014 | StepCount: 10 | Win rate: 0.937 | Total rewards: 0.640 | Average rewards: 0.398 | time: 289.7 seconds
+Episode: 351/1000 | Loss: 0.0013 | StepCount: 1 | Win rate: 0.938 | Total rewards: 1.000 | Average rewards: 0.405 | time: 289.9 seconds
+Episode: 352/1000 | Loss: 0.0014 | StepCount: 4 | Win rate: 0.938 | Total rewards: 0.880 | Average rewards: 0.407 | time: 290.2 seconds
+Episode: 353/1000 | Loss: 0.0068 | StepCount: 14 | Win rate: 0.938 | Total rewards: -0.480 | Average rewards: 0.394 | time: 291.3 seconds
+Episode: 354/1000 | Loss: 0.0004 | StepCount: 9 | Win rate: 0.938 | Total rewards: -0.370 | Average rewards: 0.390 | time: 292.0 seconds
+Episode: 355/1000 | Loss: 0.0003 | StepCount: 21 | Win rate: 0.938 | Total rewards: -1.300 | Average rewards: 0.371 | time: 293.5 seconds
+Episode: 356/1000 | Loss: 0.0008 | StepCount: 13 | Win rate: 0.938 | Total rewards: 0.520 | Average rewards: 0.369 | time: 294.5 seconds
+Episode: 357/1000 | Loss: 0.0008 | StepCount: 11 | Win rate: 0.939 | Total rewards: 0.600 | Average rewards: 0.369 | time: 295.3 seconds
+Episode: 358/1000 | Loss: 0.0015 | StepCount: 12 | Win rate: 0.939 | Total rewards: 0.560 | Average rewards: 0.369 | time: 296.2 seconds
+Episode: 359/1000 | Loss: 0.0015 | StepCount: 5 | Win rate: 0.939 | Total rewards: 0.840 | Average rewards: 0.370 | time: 296.6 seconds
+Episode: 360/1000 | Loss: 0.0003 | StepCount: 9 | Win rate: 0.939 | Total rewards: 0.680 | Average rewards: 0.376 | time: 297.4 seconds
+Episode: 361/1000 | Loss: 0.0009 | StepCount: 2 | Win rate: 0.939 | Total rewards: 0.960 | Average rewards: 0.381 | time: 297.5 seconds
+Episode: 362/1000 | Loss: 0.0005 | StepCount: 10 | Win rate: 0.939 | Total rewards: 0.640 | Average rewards: 0.384 | time: 298.3 seconds
+Episode: 363/1000 | Loss: 0.0005 | StepCount: 7 | Win rate: 0.940 | Total rewards: 0.760 | Average rewards: 0.383 | time: 298.9 seconds
+Episode: 364/1000 | Loss: 0.0003 | StepCount: 18 | Win rate: 0.940 | Total rewards: -0.430 | Average rewards: 0.376 | time: 300.2 seconds
+Episode: 365/1000 | Loss: 0.0004 | StepCount: 12 | Win rate: 0.940 | Total rewards: -0.740 | Average rewards: 0.360 | time: 301.2 seconds
+Episode: 366/1000 | Loss: 0.0005 | StepCount: 16 | Win rate: 0.940 | Total rewards: -0.310 | Average rewards: 0.350 | time: 302.4 seconds
+Episode: 367/1000 | Loss: 0.0018 | StepCount: 8 | Win rate: 0.940 | Total rewards: 0.720 | Average rewards: 0.352 | time: 303.1 seconds
+Episode: 368/1000 | Loss: 0.0020 | StepCount: 14 | Win rate: 0.940 | Total rewards: -1.020 | Average rewards: 0.334 | time: 304.1 seconds
+Episode: 369/1000 | Loss: 0.0013 | StepCount: 3 | Win rate: 0.941 | Total rewards: 0.920 | Average rewards: 0.335 | time: 304.4 seconds
+Episode: 370/1000 | Loss: 0.0015 | StepCount: 13 | Win rate: 0.941 | Total rewards: -0.780 | Average rewards: 0.322 | time: 305.4 seconds
+Episode: 371/1000 | Loss: 0.0010 | StepCount: 14 | Win rate: 0.941 | Total rewards: 0.230 | Average rewards: 0.316 | time: 306.4 seconds
+Episode: 372/1000 | Loss: 0.0012 | StepCount: 6 | Win rate: 0.941 | Total rewards: 0.800 | Average rewards: 0.324 | time: 306.9 seconds
+Episode: 373/1000 | Loss: 0.0009 | StepCount: 4 | Win rate: 0.941 | Total rewards: 0.880 | Average rewards: 0.343 | time: 307.2 seconds
+Episode: 374/1000 | Loss: 0.0034 | StepCount: 15 | Win rate: 0.941 | Total rewards: 0.440 | Average rewards: 0.344 | time: 308.4 seconds
+Episode: 375/1000 | Loss: 0.0014 | StepCount: 16 | Win rate: 0.941 | Total rewards: 0.400 | Average rewards: 0.339 | time: 309.6 seconds
+Episode: 376/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.942 | Total rewards: 0.640 | Average rewards: 0.339 | time: 310.4 seconds
+Episode: 377/1000 | Loss: 0.0020 | StepCount: 11 | Win rate: 0.942 | Total rewards: 0.100 | Average rewards: 0.330 | time: 311.3 seconds
+Episode: 378/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.942 | Total rewards: 0.340 | Average rewards: 0.326 | time: 311.7 seconds
+Episode: 379/1000 | Loss: 0.0006 | StepCount: 4 | Win rate: 0.942 | Total rewards: 0.880 | Average rewards: 0.331 | time: 312.0 seconds
+Episode: 380/1000 | Loss: 0.0006 | StepCount: 5 | Win rate: 0.942 | Total rewards: 0.840 | Average rewards: 0.330 | time: 312.5 seconds
+Episode: 381/1000 | Loss: 0.0005 | StepCount: 10 | Win rate: 0.942 | Total rewards: 0.140 | Average rewards: 0.323 | time: 313.3 seconds
+Episode: 382/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.943 | Total rewards: 0.640 | Average rewards: 0.321 | time: 314.1 seconds
+Episode: 383/1000 | Loss: 0.0018 | StepCount: 1 | Win rate: 0.943 | Total rewards: 1.000 | Average rewards: 0.322 | time: 314.2 seconds
+Episode: 384/1000 | Loss: 0.0009 | StepCount: 9 | Win rate: 0.943 | Total rewards: 0.680 | Average rewards: 0.321 | time: 315.0 seconds
+Episode: 385/1000 | Loss: 0.0005 | StepCount: 3 | Win rate: 0.943 | Total rewards: 0.920 | Average rewards: 0.321 | time: 315.3 seconds
+Episode: 386/1000 | Loss: 0.0012 | StepCount: 11 | Win rate: 0.943 | Total rewards: 0.350 | Average rewards: 0.315 | time: 316.1 seconds
+Episode: 387/1000 | Loss: 0.0009 | StepCount: 8 | Win rate: 0.943 | Total rewards: 0.720 | Average rewards: 0.315 | time: 316.8 seconds
+Episode: 388/1000 | Loss: 0.0019 | StepCount: 9 | Win rate: 0.943 | Total rewards: 0.680 | Average rewards: 0.314 | time: 317.6 seconds
+Episode: 389/1000 | Loss: 0.0009 | StepCount: 17 | Win rate: 0.944 | Total rewards: -2.190 | Average rewards: 0.306 | time: 318.9 seconds
+Episode: 390/1000 | Loss: 0.0014 | StepCount: 9 | Win rate: 0.944 | Total rewards: -0.030 | Average rewards: 0.296 | time: 319.6 seconds
+Episode: 391/1000 | Loss: 0.0010 | StepCount: 13 | Win rate: 0.944 | Total rewards: 0.020 | Average rewards: 0.289 | time: 320.6 seconds
+Episode: 392/1000 | Loss: 0.0017 | StepCount: 9 | Win rate: 0.944 | Total rewards: 0.680 | Average rewards: 0.291 | time: 321.3 seconds
+Episode: 393/1000 | Loss: 0.0015 | StepCount: 10 | Win rate: 0.944 | Total rewards: 0.640 | Average rewards: 0.289 | time: 322.1 seconds
+Episode: 394/1000 | Loss: 0.0024 | StepCount: 9 | Win rate: 0.944 | Total rewards: -0.280 | Average rewards: 0.280 | time: 322.9 seconds
+Episode: 395/1000 | Loss: 0.0002 | StepCount: 4 | Win rate: 0.944 | Total rewards: 0.880 | Average rewards: 0.281 | time: 323.2 seconds
+Episode: 396/1000 | Loss: 0.0009 | StepCount: 14 | Win rate: 0.945 | Total rewards: -2.120 | Average rewards: 0.252 | time: 324.3 seconds
+Episode: 397/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.945 | Total rewards: -0.410 | Average rewards: 0.248 | time: 325.1 seconds
+Episode: 398/1000 | Loss: 0.0018 | StepCount: 12 | Win rate: 0.945 | Total rewards: 0.560 | Average rewards: 0.254 | time: 326.1 seconds
+Episode: 399/1000 | Loss: 0.0020 | StepCount: 10 | Win rate: 0.945 | Total rewards: 0.640 | Average rewards: 0.253 | time: 326.9 seconds
+Episode: 400/1000 | Loss: 0.0008 | StepCount: 15 | Win rate: 0.945 | Total rewards: -0.060 | Average rewards: 0.299 | time: 328.1 seconds
+Episode: 401/1000 | Loss: 0.0006 | StepCount: 2 | Win rate: 0.945 | Total rewards: 0.960 | Average rewards: 0.301 | time: 328.3 seconds
+Episode: 402/1000 | Loss: 0.0015 | StepCount: 4 | Win rate: 0.945 | Total rewards: 0.880 | Average rewards: 0.304 | time: 328.7 seconds
+Episode: 403/1000 | Loss: 0.0008 | StepCount: 11 | Win rate: 0.946 | Total rewards: 0.350 | Average rewards: 0.304 | time: 329.5 seconds
+Episode: 404/1000 | Loss: 0.0004 | StepCount: 9 | Win rate: 0.946 | Total rewards: 0.680 | Average rewards: 0.311 | time: 330.3 seconds
+Episode: 405/1000 | Loss: 0.0008 | StepCount: 8 | Win rate: 0.946 | Total rewards: 0.720 | Average rewards: 0.330 | time: 330.9 seconds
+Episode: 406/1000 | Loss: 0.0007 | StepCount: 14 | Win rate: 0.946 | Total rewards: 0.480 | Average rewards: 0.325 | time: 332.0 seconds
+Episode: 407/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.946 | Total rewards: 0.720 | Average rewards: 0.326 | time: 332.7 seconds
+Episode: 408/1000 | Loss: 0.0016 | StepCount: 12 | Win rate: 0.946 | Total rewards: 0.560 | Average rewards: 0.325 | time: 333.7 seconds
+Episode: 409/1000 | Loss: 0.0059 | StepCount: 19 | Win rate: 0.946 | Total rewards: -4.970 | Average rewards: 0.269 | time: 335.2 seconds
+Episode: 410/1000 | Loss: 0.0022 | StepCount: 3 | Win rate: 0.946 | Total rewards: 0.670 | Average rewards: 0.280 | time: 335.4 seconds
+Episode: 411/1000 | Loss: 0.0018 | StepCount: 13 | Win rate: 0.947 | Total rewards: 0.270 | Average rewards: 0.274 | time: 336.5 seconds
+Episode: 412/1000 | Loss: 0.0018 | StepCount: 4 | Win rate: 0.947 | Total rewards: 0.880 | Average rewards: 0.307 | time: 336.9 seconds
+Episode: 413/1000 | Loss: 0.0023 | StepCount: 2 | Win rate: 0.947 | Total rewards: 0.960 | Average rewards: 0.321 | time: 337.1 seconds
+Episode: 414/1000 | Loss: 0.0021 | StepCount: 6 | Win rate: 0.947 | Total rewards: 0.300 | Average rewards: 0.318 | time: 337.6 seconds
+Episode: 415/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.947 | Total rewards: 0.430 | Average rewards: 0.324 | time: 338.4 seconds
+Episode: 416/1000 | Loss: 0.0038 | StepCount: 5 | Win rate: 0.947 | Total rewards: 0.840 | Average rewards: 0.324 | time: 338.8 seconds
+Episode: 417/1000 | Loss: 0.0012 | StepCount: 4 | Win rate: 0.947 | Total rewards: -0.170 | Average rewards: 0.314 | time: 339.3 seconds
+Episode: 418/1000 | Loss: 0.0005 | StepCount: 12 | Win rate: 0.947 | Total rewards: 0.310 | Average rewards: 0.313 | time: 340.2 seconds
+Episode: 419/1000 | Loss: 0.0007 | StepCount: 3 | Win rate: 0.948 | Total rewards: 0.920 | Average rewards: 0.315 | time: 340.5 seconds
+Episode: 420/1000 | Loss: 0.0044 | StepCount: 1 | Win rate: 0.948 | Total rewards: 1.000 | Average rewards: 0.322 | time: 340.6 seconds
+Episode: 421/1000 | Loss: 0.0008 | StepCount: 4 | Win rate: 0.948 | Total rewards: 0.880 | Average rewards: 0.326 | time: 341.0 seconds
+Episode: 422/1000 | Loss: 0.0017 | StepCount: 3 | Win rate: 0.948 | Total rewards: -0.130 | Average rewards: 0.318 | time: 341.3 seconds
+Episode: 423/1000 | Loss: 0.0002 | StepCount: 11 | Win rate: 0.948 | Total rewards: 0.600 | Average rewards: 0.314 | time: 342.1 seconds
+Episode: 424/1000 | Loss: 0.0013 | StepCount: 9 | Win rate: 0.948 | Total rewards: 0.680 | Average rewards: 0.313 | time: 342.9 seconds
+Episode: 425/1000 | Loss: 0.0013 | StepCount: 8 | Win rate: 0.948 | Total rewards: 0.720 | Average rewards: 0.314 | time: 343.6 seconds
+Episode: 426/1000 | Loss: 0.0022 | StepCount: 8 | Win rate: 0.948 | Total rewards: 0.720 | Average rewards: 0.325 | time: 344.2 seconds
+Episode: 427/1000 | Loss: 0.0007 | StepCount: 12 | Win rate: 0.949 | Total rewards: 0.310 | Average rewards: 0.320 | time: 345.2 seconds
+Episode: 428/1000 | Loss: 0.0006 | StepCount: 12 | Win rate: 0.949 | Total rewards: 0.560 | Average rewards: 0.319 | time: 346.2 seconds
+Episode: 429/1000 | Loss: 0.0007 | StepCount: 14 | Win rate: 0.949 | Total rewards: -0.980 | Average rewards: 0.300 | time: 347.3 seconds
+Episode: 430/1000 | Loss: 0.0006 | StepCount: 8 | Win rate: 0.949 | Total rewards: -0.490 | Average rewards: 0.296 | time: 347.9 seconds
+Episode: 431/1000 | Loss: 0.0005 | StepCount: 10 | Win rate: 0.949 | Total rewards: -0.070 | Average rewards: 0.299 | time: 348.8 seconds
+Episode: 432/1000 | Loss: 0.0017 | StepCount: 8 | Win rate: 0.949 | Total rewards: 0.720 | Average rewards: 0.306 | time: 349.4 seconds
+Episode: 433/1000 | Loss: 0.0026 | StepCount: 10 | Win rate: 0.949 | Total rewards: 0.390 | Average rewards: 0.302 | time: 350.2 seconds
+Episode: 434/1000 | Loss: 0.0022 | StepCount: 13 | Win rate: 0.949 | Total rewards: 0.270 | Average rewards: 0.313 | time: 351.4 seconds
+Episode: 435/1000 | Loss: 0.0011 | StepCount: 7 | Win rate: 0.950 | Total rewards: 0.760 | Average rewards: 0.312 | time: 351.9 seconds
+Episode: 436/1000 | Loss: 0.0013 | StepCount: 9 | Win rate: 0.950 | Total rewards: -0.530 | Average rewards: 0.299 | time: 352.7 seconds
+Episode: 437/1000 | Loss: 0.0005 | StepCount: 5 | Win rate: 0.950 | Total rewards: 0.130 | Average rewards: 0.293 | time: 353.2 seconds
+Episode: 438/1000 | Loss: 0.0014 | StepCount: 9 | Win rate: 0.950 | Total rewards: 0.680 | Average rewards: 0.296 | time: 353.8 seconds
+Episode: 439/1000 | Loss: 0.0002 | StepCount: 3 | Win rate: 0.950 | Total rewards: 0.920 | Average rewards: 0.304 | time: 354.1 seconds
+Episode: 440/1000 | Loss: 0.0013 | StepCount: 9 | Win rate: 0.950 | Total rewards: 0.680 | Average rewards: 0.302 | time: 354.9 seconds
+Episode: 441/1000 | Loss: 0.0002 | StepCount: 3 | Win rate: 0.950 | Total rewards: 0.920 | Average rewards: 0.305 | time: 355.2 seconds
+Episode: 442/1000 | Loss: 0.0013 | StepCount: 12 | Win rate: 0.950 | Total rewards: 0.560 | Average rewards: 0.311 | time: 356.1 seconds
+Episode: 443/1000 | Loss: 0.0011 | StepCount: 3 | Win rate: 0.950 | Total rewards: 0.920 | Average rewards: 0.318 | time: 356.5 seconds
+Episode: 444/1000 | Loss: 0.0011 | StepCount: 3 | Win rate: 0.951 | Total rewards: 0.920 | Average rewards: 0.320 | time: 356.8 seconds
+Episode: 445/1000 | Loss: 0.0021 | StepCount: 3 | Win rate: 0.951 | Total rewards: 0.920 | Average rewards: 0.329 | time: 357.1 seconds
+Episode: 446/1000 | Loss: 0.0013 | StepCount: 10 | Win rate: 0.951 | Total rewards: 0.140 | Average rewards: 0.329 | time: 357.9 seconds
+Episode: 447/1000 | Loss: 0.0014 | StepCount: 6 | Win rate: 0.951 | Total rewards: 0.800 | Average rewards: 0.328 | time: 358.4 seconds
+Episode: 448/1000 | Loss: 0.0003 | StepCount: 5 | Win rate: 0.951 | Total rewards: 0.340 | Average rewards: 0.325 | time: 358.8 seconds
+Episode: 449/1000 | Loss: 0.0021 | StepCount: 11 | Win rate: 0.951 | Total rewards: 0.600 | Average rewards: 0.330 | time: 359.8 seconds
+Episode: 450/1000 | Loss: 0.0014 | StepCount: 7 | Win rate: 0.951 | Total rewards: -1.160 | Average rewards: 0.312 | time: 360.4 seconds
+Episode: 451/1000 | Loss: 0.0013 | StepCount: 14 | Win rate: 0.951 | Total rewards: -0.980 | Average rewards: 0.293 | time: 361.5 seconds
+Episode: 452/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.951 | Total rewards: 0.840 | Average rewards: 0.292 | time: 362.0 seconds
+Episode: 453/1000 | Loss: 0.0016 | StepCount: 9 | Win rate: 0.952 | Total rewards: 0.680 | Average rewards: 0.304 | time: 362.8 seconds
+Episode: 454/1000 | Loss: 0.0004 | StepCount: 10 | Win rate: 0.952 | Total rewards: 0.640 | Average rewards: 0.314 | time: 363.6 seconds
+Episode: 455/1000 | Loss: 0.0009 | StepCount: 6 | Win rate: 0.952 | Total rewards: 0.800 | Average rewards: 0.335 | time: 364.1 seconds
+Episode: 456/1000 | Loss: 0.0007 | StepCount: 5 | Win rate: 0.952 | Total rewards: -0.210 | Average rewards: 0.327 | time: 364.5 seconds
+Episode: 457/1000 | Loss: 0.0005 | StepCount: 7 | Win rate: 0.952 | Total rewards: 0.760 | Average rewards: 0.329 | time: 365.1 seconds
+Episode: 458/1000 | Loss: 0.0010 | StepCount: 14 | Win rate: 0.952 | Total rewards: -0.230 | Average rewards: 0.321 | time: 366.3 seconds
+Episode: 459/1000 | Loss: 0.0017 | StepCount: 10 | Win rate: 0.952 | Total rewards: 0.140 | Average rewards: 0.314 | time: 367.1 seconds
+Episode: 460/1000 | Loss: 0.0014 | StepCount: 8 | Win rate: 0.952 | Total rewards: 0.720 | Average rewards: 0.315 | time: 367.8 seconds
+Episode: 461/1000 | Loss: 0.0028 | StepCount: 13 | Win rate: 0.952 | Total rewards: -0.230 | Average rewards: 0.303 | time: 368.8 seconds
+Episode: 462/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.952 | Total rewards: 0.680 | Average rewards: 0.303 | time: 369.6 seconds
+Episode: 463/1000 | Loss: 0.0019 | StepCount: 13 | Win rate: 0.953 | Total rewards: 0.520 | Average rewards: 0.301 | time: 370.6 seconds
+Episode: 464/1000 | Loss: 0.0008 | StepCount: 11 | Win rate: 0.953 | Total rewards: 0.350 | Average rewards: 0.309 | time: 371.6 seconds
+Episode: 465/1000 | Loss: 0.0006 | StepCount: 5 | Win rate: 0.953 | Total rewards: -0.210 | Average rewards: 0.314 | time: 372.0 seconds
+Episode: 466/1000 | Loss: 0.0002 | StepCount: 4 | Win rate: 0.953 | Total rewards: 0.170 | Average rewards: 0.319 | time: 372.4 seconds
+Episode: 467/1000 | Loss: 0.0009 | StepCount: 3 | Win rate: 0.953 | Total rewards: 0.920 | Average rewards: 0.321 | time: 372.6 seconds
+Episode: 468/1000 | Loss: 0.0015 | StepCount: 3 | Win rate: 0.953 | Total rewards: 0.920 | Average rewards: 0.340 | time: 373.0 seconds
+Episode: 469/1000 | Loss: 0.0003 | StepCount: 14 | Win rate: 0.953 | Total rewards: 0.230 | Average rewards: 0.333 | time: 374.1 seconds
+Episode: 470/1000 | Loss: 0.0004 | StepCount: 9 | Win rate: 0.953 | Total rewards: 0.680 | Average rewards: 0.348 | time: 374.9 seconds
+Episode: 471/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.953 | Total rewards: 0.680 | Average rewards: 0.352 | time: 375.6 seconds
+Episode: 472/1000 | Loss: 0.0008 | StepCount: 6 | Win rate: 0.953 | Total rewards: 0.090 | Average rewards: 0.345 | time: 376.2 seconds
+Episode: 473/1000 | Loss: 0.0002 | StepCount: 11 | Win rate: 0.954 | Total rewards: 0.600 | Average rewards: 0.342 | time: 377.1 seconds
+Episode: 474/1000 | Loss: 0.0012 | StepCount: 14 | Win rate: 0.954 | Total rewards: 0.480 | Average rewards: 0.343 | time: 378.3 seconds
+Episode: 475/1000 | Loss: 0.0005 | StepCount: 5 | Win rate: 0.954 | Total rewards: 0.840 | Average rewards: 0.347 | time: 378.7 seconds
+Episode: 476/1000 | Loss: 0.0004 | StepCount: 6 | Win rate: 0.954 | Total rewards: 0.800 | Average rewards: 0.349 | time: 379.3 seconds
+Episode: 477/1000 | Loss: 0.0011 | StepCount: 13 | Win rate: 0.954 | Total rewards: 0.020 | Average rewards: 0.348 | time: 380.3 seconds
+Episode: 478/1000 | Loss: 0.0009 | StepCount: 1 | Win rate: 0.954 | Total rewards: 1.000 | Average rewards: 0.355 | time: 380.5 seconds
+Episode: 479/1000 | Loss: 0.0006 | StepCount: 9 | Win rate: 0.954 | Total rewards: 0.680 | Average rewards: 0.353 | time: 381.3 seconds
+Episode: 480/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.954 | Total rewards: 0.720 | Average rewards: 0.351 | time: 381.9 seconds
+Episode: 481/1000 | Loss: 0.0006 | StepCount: 11 | Win rate: 0.954 | Total rewards: 0.350 | Average rewards: 0.353 | time: 382.9 seconds
+Episode: 482/1000 | Loss: 0.0009 | StepCount: 13 | Win rate: 0.954 | Total rewards: 0.520 | Average rewards: 0.352 | time: 384.0 seconds
+Episode: 483/1000 | Loss: 0.0006 | StepCount: 11 | Win rate: 0.955 | Total rewards: 0.600 | Average rewards: 0.348 | time: 384.9 seconds
+Episode: 484/1000 | Loss: 0.0014 | StepCount: 5 | Win rate: 0.955 | Total rewards: 0.840 | Average rewards: 0.350 | time: 385.4 seconds
+Episode: 485/1000 | Loss: 0.0006 | StepCount: 9 | Win rate: 0.955 | Total rewards: 0.680 | Average rewards: 0.347 | time: 386.2 seconds
+Episode: 486/1000 | Loss: 0.0002 | StepCount: 9 | Win rate: 0.955 | Total rewards: 0.680 | Average rewards: 0.351 | time: 386.9 seconds
+Episode: 487/1000 | Loss: 0.0012 | StepCount: 15 | Win rate: 0.955 | Total rewards: -0.560 | Average rewards: 0.338 | time: 388.2 seconds
+Episode: 488/1000 | Loss: 0.0017 | StepCount: 12 | Win rate: 0.955 | Total rewards: -0.150 | Average rewards: 0.330 | time: 389.2 seconds
+Episode: 489/1000 | Loss: 0.0016 | StepCount: 12 | Win rate: 0.955 | Total rewards: 0.060 | Average rewards: 0.352 | time: 390.2 seconds
+Episode: 490/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.955 | Total rewards: 0.310 | Average rewards: 0.356 | time: 391.2 seconds
+Episode: 491/1000 | Loss: 0.0003 | StepCount: 6 | Win rate: 0.955 | Total rewards: 0.800 | Average rewards: 0.363 | time: 391.7 seconds
+Episode: 492/1000 | Loss: 0.0014 | StepCount: 3 | Win rate: 0.955 | Total rewards: 0.920 | Average rewards: 0.366 | time: 392.1 seconds
+Episode: 493/1000 | Loss: 0.0008 | StepCount: 16 | Win rate: 0.955 | Total rewards: -0.350 | Average rewards: 0.356 | time: 393.4 seconds
+Episode: 494/1000 | Loss: 0.0006 | StepCount: 15 | Win rate: 0.956 | Total rewards: 0.190 | Average rewards: 0.361 | time: 394.7 seconds
+Episode: 495/1000 | Loss: 0.0006 | StepCount: 8 | Win rate: 0.956 | Total rewards: 0.720 | Average rewards: 0.359 | time: 395.3 seconds
+Episode: 496/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.956 | Total rewards: 0.220 | Average rewards: 0.382 | time: 396.0 seconds
+Episode: 497/1000 | Loss: 0.0008 | StepCount: 11 | Win rate: 0.956 | Total rewards: 0.600 | Average rewards: 0.392 | time: 397.0 seconds
+Episode: 498/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.956 | Total rewards: 0.680 | Average rewards: 0.394 | time: 397.9 seconds
+Episode: 499/1000 | Loss: 0.0009 | StepCount: 13 | Win rate: 0.956 | Total rewards: 0.520 | Average rewards: 0.392 | time: 399.0 seconds
+Episode: 500/1000 | Loss: 0.0002 | StepCount: 8 | Win rate: 0.956 | Total rewards: 0.720 | Average rewards: 0.400 | time: 399.7 seconds
+Episode: 501/1000 | Loss: 0.0001 | StepCount: 9 | Win rate: 0.956 | Total rewards: -0.030 | Average rewards: 0.390 | time: 6.68 minutes
+Episode: 502/1000 | Loss: 0.0004 | StepCount: 5 | Win rate: 0.956 | Total rewards: 0.130 | Average rewards: 0.383 | time: 6.68 minutes
+Episode: 503/1000 | Loss: 0.0011 | StepCount: 12 | Win rate: 0.956 | Total rewards: -1.200 | Average rewards: 0.367 | time: 6.70 minutes
+Episode: 504/1000 | Loss: 0.0007 | StepCount: 17 | Win rate: 0.956 | Total rewards: -1.390 | Average rewards: 0.347 | time: 6.72 minutes
+Episode: 505/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.957 | Total rewards: 0.140 | Average rewards: 0.341 | time: 6.74 minutes
+Episode: 506/1000 | Loss: 0.0008 | StepCount: 6 | Win rate: 0.957 | Total rewards: 0.800 | Average rewards: 0.344 | time: 6.75 minutes
+Episode: 507/1000 | Loss: 0.0005 | StepCount: 9 | Win rate: 0.957 | Total rewards: -0.030 | Average rewards: 0.337 | time: 6.76 minutes
+Episode: 508/1000 | Loss: 0.0030 | StepCount: 15 | Win rate: 0.957 | Total rewards: -0.810 | Average rewards: 0.323 | time: 6.78 minutes
+Episode: 509/1000 | Loss: 0.0004 | StepCount: 14 | Win rate: 0.957 | Total rewards: -0.020 | Average rewards: 0.372 | time: 6.80 minutes
+Episode: 510/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.957 | Total rewards: 0.680 | Average rewards: 0.372 | time: 6.82 minutes
+Episode: 511/1000 | Loss: 0.0003 | StepCount: 15 | Win rate: 0.957 | Total rewards: 0.440 | Average rewards: 0.374 | time: 6.84 minutes
+Episode: 512/1000 | Loss: 0.0032 | StepCount: 8 | Win rate: 0.957 | Total rewards: 0.470 | Average rewards: 0.370 | time: 6.85 minutes
+Episode: 513/1000 | Loss: 0.0002 | StepCount: 8 | Win rate: 0.957 | Total rewards: 0.220 | Average rewards: 0.363 | time: 6.86 minutes
+Episode: 514/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.957 | Total rewards: 0.720 | Average rewards: 0.367 | time: 6.87 minutes
+Episode: 515/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.957 | Total rewards: 0.220 | Average rewards: 0.365 | time: 6.89 minutes
+Episode: 516/1000 | Loss: 0.0003 | StepCount: 9 | Win rate: 0.957 | Total rewards: 0.680 | Average rewards: 0.363 | time: 6.90 minutes
+Episode: 517/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.958 | Total rewards: -0.070 | Average rewards: 0.364 | time: 6.91 minutes
+Episode: 518/1000 | Loss: 0.0013 | StepCount: 4 | Win rate: 0.958 | Total rewards: 0.880 | Average rewards: 0.370 | time: 6.92 minutes
+Episode: 519/1000 | Loss: 0.0012 | StepCount: 5 | Win rate: 0.958 | Total rewards: 0.590 | Average rewards: 0.366 | time: 6.93 minutes
+Episode: 520/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.958 | Total rewards: 0.640 | Average rewards: 0.363 | time: 6.94 minutes
+Episode: 521/1000 | Loss: 0.0026 | StepCount: 6 | Win rate: 0.958 | Total rewards: 0.800 | Average rewards: 0.362 | time: 6.95 minutes
+Episode: 522/1000 | Loss: 0.0008 | StepCount: 4 | Win rate: 0.958 | Total rewards: 0.880 | Average rewards: 0.372 | time: 6.96 minutes
+Episode: 523/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.958 | Total rewards: 0.640 | Average rewards: 0.373 | time: 6.98 minutes
+Episode: 524/1000 | Loss: 0.0007 | StepCount: 16 | Win rate: 0.958 | Total rewards: -0.600 | Average rewards: 0.360 | time: 7.00 minutes
+Episode: 525/1000 | Loss: 0.0014 | StepCount: 8 | Win rate: 0.958 | Total rewards: 0.720 | Average rewards: 0.360 | time: 7.01 minutes
+Episode: 526/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.958 | Total rewards: 0.840 | Average rewards: 0.361 | time: 7.02 minutes
+Episode: 527/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.958 | Total rewards: 0.640 | Average rewards: 0.364 | time: 7.03 minutes
+Episode: 528/1000 | Loss: 0.0017 | StepCount: 7 | Win rate: 0.958 | Total rewards: 0.260 | Average rewards: 0.361 | time: 7.04 minutes
+Episode: 529/1000 | Loss: 0.0006 | StepCount: 8 | Win rate: 0.958 | Total rewards: -0.330 | Average rewards: 0.368 | time: 7.05 minutes
+Episode: 530/1000 | Loss: 0.0011 | StepCount: 11 | Win rate: 0.959 | Total rewards: 0.600 | Average rewards: 0.379 | time: 7.07 minutes
+Episode: 531/1000 | Loss: 0.0015 | StepCount: 10 | Win rate: 0.959 | Total rewards: 0.640 | Average rewards: 0.386 | time: 7.09 minutes
+Episode: 532/1000 | Loss: 0.0025 | StepCount: 2 | Win rate: 0.959 | Total rewards: 0.960 | Average rewards: 0.388 | time: 7.09 minutes
+Episode: 533/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.959 | Total rewards: 0.130 | Average rewards: 0.386 | time: 7.10 minutes
+Episode: 534/1000 | Loss: 0.0007 | StepCount: 14 | Win rate: 0.959 | Total rewards: 0.230 | Average rewards: 0.385 | time: 7.12 minutes
+Episode: 535/1000 | Loss: 0.0014 | StepCount: 18 | Win rate: 0.959 | Total rewards: -0.930 | Average rewards: 0.368 | time: 7.14 minutes
+Episode: 536/1000 | Loss: 0.0010 | StepCount: 25 | Win rate: 0.959 | Total rewards: -3.210 | Average rewards: 0.341 | time: 7.18 minutes
+Episode: 537/1000 | Loss: 0.0019 | StepCount: 4 | Win rate: 0.959 | Total rewards: 0.880 | Average rewards: 0.349 | time: 7.19 minutes
+Episode: 538/1000 | Loss: 0.0016 | StepCount: 3 | Win rate: 0.959 | Total rewards: 0.920 | Average rewards: 0.351 | time: 7.19 minutes
+Episode: 539/1000 | Loss: 0.0009 | StepCount: 9 | Win rate: 0.959 | Total rewards: 0.680 | Average rewards: 0.349 | time: 7.20 minutes
+Episode: 540/1000 | Loss: 0.0009 | StepCount: 2 | Win rate: 0.959 | Total rewards: 0.960 | Average rewards: 0.352 | time: 7.21 minutes
+Episode: 541/1000 | Loss: 0.0010 | StepCount: 15 | Win rate: 0.959 | Total rewards: 0.440 | Average rewards: 0.347 | time: 7.23 minutes
+Episode: 542/1000 | Loss: 0.0016 | StepCount: 8 | Win rate: 0.959 | Total rewards: 0.720 | Average rewards: 0.349 | time: 7.24 minutes
+Episode: 543/1000 | Loss: 0.0012 | StepCount: 11 | Win rate: 0.960 | Total rewards: -0.360 | Average rewards: 0.336 | time: 7.26 minutes
+Episode: 544/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.960 | Total rewards: 0.840 | Average rewards: 0.335 | time: 7.27 minutes
+Episode: 545/1000 | Loss: 0.0009 | StepCount: 8 | Win rate: 0.960 | Total rewards: 0.720 | Average rewards: 0.333 | time: 7.28 minutes
+Episode: 546/1000 | Loss: 0.0023 | StepCount: 5 | Win rate: 0.960 | Total rewards: 0.840 | Average rewards: 0.340 | time: 7.29 minutes
+Episode: 547/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.960 | Total rewards: -0.070 | Average rewards: 0.331 | time: 7.30 minutes
+Episode: 548/1000 | Loss: 0.0013 | StepCount: 14 | Win rate: 0.960 | Total rewards: 0.230 | Average rewards: 0.330 | time: 7.33 minutes
+Episode: 549/1000 | Loss: 0.0004 | StepCount: 10 | Win rate: 0.960 | Total rewards: -0.410 | Average rewards: 0.320 | time: 7.34 minutes
+Episode: 550/1000 | Loss: 0.0016 | StepCount: 6 | Win rate: 0.960 | Total rewards: 0.800 | Average rewards: 0.340 | time: 7.35 minutes
+Episode: 551/1000 | Loss: 0.0006 | StepCount: 12 | Win rate: 0.960 | Total rewards: 0.060 | Average rewards: 0.350 | time: 7.37 minutes
+Episode: 552/1000 | Loss: 0.0010 | StepCount: 9 | Win rate: 0.960 | Total rewards: 0.180 | Average rewards: 0.343 | time: 7.38 minutes
+Episode: 553/1000 | Loss: 0.0022 | StepCount: 9 | Win rate: 0.960 | Total rewards: 0.680 | Average rewards: 0.343 | time: 7.39 minutes
+Episode: 554/1000 | Loss: 0.0007 | StepCount: 13 | Win rate: 0.960 | Total rewards: 0.270 | Average rewards: 0.340 | time: 7.41 minutes
+Episode: 555/1000 | Loss: 0.0013 | StepCount: 4 | Win rate: 0.960 | Total rewards: 0.880 | Average rewards: 0.341 | time: 7.42 minutes
+Episode: 556/1000 | Loss: 0.0014 | StepCount: 5 | Win rate: 0.961 | Total rewards: 0.840 | Average rewards: 0.351 | time: 7.43 minutes
+Episode: 557/1000 | Loss: 0.0020 | StepCount: 10 | Win rate: 0.961 | Total rewards: 0.640 | Average rewards: 0.350 | time: 7.44 minutes
+Episode: 558/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.961 | Total rewards: 0.390 | Average rewards: 0.356 | time: 7.46 minutes
+Episode: 559/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.961 | Total rewards: 0.840 | Average rewards: 0.363 | time: 7.47 minutes
+Episode: 560/1000 | Loss: 0.0002 | StepCount: 14 | Win rate: 0.961 | Total rewards: -1.020 | Average rewards: 0.346 | time: 7.49 minutes
+Episode: 561/1000 | Loss: 0.0025 | StepCount: 9 | Win rate: 0.961 | Total rewards: 0.680 | Average rewards: 0.355 | time: 7.50 minutes
+Episode: 562/1000 | Loss: 0.0021 | StepCount: 4 | Win rate: 0.961 | Total rewards: 0.170 | Average rewards: 0.350 | time: 7.51 minutes
+Episode: 563/1000 | Loss: 0.0005 | StepCount: 5 | Win rate: 0.961 | Total rewards: 0.840 | Average rewards: 0.353 | time: 7.52 minutes
+Episode: 564/1000 | Loss: 0.0012 | StepCount: 8 | Win rate: 0.961 | Total rewards: 0.720 | Average rewards: 0.357 | time: 7.53 minutes
+Episode: 565/1000 | Loss: 0.0014 | StepCount: 2 | Win rate: 0.961 | Total rewards: 0.710 | Average rewards: 0.366 | time: 7.53 minutes
+Episode: 566/1000 | Loss: 0.0005 | StepCount: 9 | Win rate: 0.961 | Total rewards: -0.030 | Average rewards: 0.364 | time: 7.55 minutes
+Episode: 567/1000 | Loss: 0.0010 | StepCount: 5 | Win rate: 0.961 | Total rewards: 0.840 | Average rewards: 0.363 | time: 7.56 minutes
+Episode: 568/1000 | Loss: 0.0006 | StepCount: 14 | Win rate: 0.961 | Total rewards: -0.520 | Average rewards: 0.349 | time: 7.58 minutes
+Episode: 569/1000 | Loss: 0.0010 | StepCount: 13 | Win rate: 0.961 | Total rewards: -0.690 | Average rewards: 0.339 | time: 7.60 minutes
+Episode: 570/1000 | Loss: 0.0002 | StepCount: 10 | Win rate: 0.961 | Total rewards: 0.640 | Average rewards: 0.339 | time: 7.61 minutes
+Episode: 571/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.962 | Total rewards: 0.840 | Average rewards: 0.341 | time: 7.62 minutes
+Episode: 572/1000 | Loss: 0.0018 | StepCount: 9 | Win rate: 0.962 | Total rewards: 0.680 | Average rewards: 0.347 | time: 7.63 minutes
+Episode: 573/1000 | Loss: 0.0007 | StepCount: 12 | Win rate: 0.962 | Total rewards: -0.400 | Average rewards: 0.336 | time: 7.65 minutes
+Episode: 574/1000 | Loss: 0.0002 | StepCount: 8 | Win rate: 0.962 | Total rewards: -0.030 | Average rewards: 0.331 | time: 7.66 minutes
+Episode: 575/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.962 | Total rewards: 0.680 | Average rewards: 0.330 | time: 7.68 minutes
+Episode: 576/1000 | Loss: 0.0010 | StepCount: 9 | Win rate: 0.962 | Total rewards: 0.680 | Average rewards: 0.329 | time: 7.69 minutes
+Episode: 577/1000 | Loss: 0.0005 | StepCount: 4 | Win rate: 0.962 | Total rewards: 0.880 | Average rewards: 0.337 | time: 7.70 minutes
+Episode: 578/1000 | Loss: 0.0013 | StepCount: 10 | Win rate: 0.962 | Total rewards: 0.640 | Average rewards: 0.334 | time: 7.71 minutes
+Episode: 579/1000 | Loss: 0.0020 | StepCount: 11 | Win rate: 0.962 | Total rewards: 0.350 | Average rewards: 0.330 | time: 7.73 minutes
+Episode: 580/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.962 | Total rewards: -0.900 | Average rewards: 0.314 | time: 7.75 minutes
+Episode: 581/1000 | Loss: 0.0012 | StepCount: 8 | Win rate: 0.962 | Total rewards: -1.540 | Average rewards: 0.295 | time: 7.76 minutes
+Episode: 582/1000 | Loss: 0.0016 | StepCount: 12 | Win rate: 0.962 | Total rewards: 0.310 | Average rewards: 0.293 | time: 7.78 minutes
+Episode: 583/1000 | Loss: 0.0014 | StepCount: 4 | Win rate: 0.962 | Total rewards: 0.880 | Average rewards: 0.296 | time: 7.79 minutes
+Episode: 584/1000 | Loss: 0.0016 | StepCount: 13 | Win rate: 0.962 | Total rewards: 0.520 | Average rewards: 0.293 | time: 7.81 minutes
+Episode: 585/1000 | Loss: 0.0006 | StepCount: 7 | Win rate: 0.962 | Total rewards: -0.200 | Average rewards: 0.284 | time: 7.82 minutes
+Episode: 586/1000 | Loss: 0.0007 | StepCount: 4 | Win rate: 0.963 | Total rewards: 0.880 | Average rewards: 0.286 | time: 7.83 minutes
+Episode: 587/1000 | Loss: 0.0011 | StepCount: 1 | Win rate: 0.963 | Total rewards: 1.000 | Average rewards: 0.301 | time: 7.83 minutes
+Episode: 588/1000 | Loss: 0.0023 | StepCount: 12 | Win rate: 0.963 | Total rewards: 0.560 | Average rewards: 0.309 | time: 7.85 minutes
+Episode: 589/1000 | Loss: 0.0017 | StepCount: 5 | Win rate: 0.963 | Total rewards: 0.590 | Average rewards: 0.314 | time: 7.86 minutes
+Episode: 590/1000 | Loss: 0.0016 | StepCount: 8 | Win rate: 0.963 | Total rewards: -0.240 | Average rewards: 0.308 | time: 7.87 minutes
+Episode: 591/1000 | Loss: 0.0019 | StepCount: 11 | Win rate: 0.963 | Total rewards: -0.610 | Average rewards: 0.294 | time: 7.89 minutes
+Episode: 592/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.963 | Total rewards: -0.330 | Average rewards: 0.282 | time: 7.90 minutes
+Episode: 593/1000 | Loss: 0.0009 | StepCount: 11 | Win rate: 0.963 | Total rewards: 0.100 | Average rewards: 0.286 | time: 7.92 minutes
+Episode: 594/1000 | Loss: 0.0007 | StepCount: 10 | Win rate: 0.963 | Total rewards: -0.410 | Average rewards: 0.280 | time: 7.93 minutes
+Episode: 595/1000 | Loss: 0.0004 | StepCount: 9 | Win rate: 0.963 | Total rewards: -0.990 | Average rewards: 0.263 | time: 7.95 minutes
+Episode: 596/1000 | Loss: 0.0016 | StepCount: 6 | Win rate: 0.963 | Total rewards: 0.800 | Average rewards: 0.269 | time: 7.96 minutes
+Episode: 597/1000 | Loss: 0.0012 | StepCount: 7 | Win rate: 0.963 | Total rewards: 0.760 | Average rewards: 0.271 | time: 7.97 minutes
+Episode: 598/1000 | Loss: 0.0013 | StepCount: 11 | Win rate: 0.963 | Total rewards: -0.110 | Average rewards: 0.263 | time: 7.98 minutes
+Episode: 599/1000 | Loss: 0.0016 | StepCount: 6 | Win rate: 0.963 | Total rewards: 0.090 | Average rewards: 0.258 | time: 8.00 minutes
+Episode: 600/1000 | Loss: 0.0016 | StepCount: 8 | Win rate: 0.963 | Total rewards: 0.720 | Average rewards: 0.258 | time: 8.01 minutes
+Episode: 601/1000 | Loss: 0.0027 | StepCount: 13 | Win rate: 0.963 | Total rewards: -0.230 | Average rewards: 0.256 | time: 8.03 minutes
+Episode: 602/1000 | Loss: 0.0016 | StepCount: 5 | Win rate: 0.964 | Total rewards: 0.840 | Average rewards: 0.264 | time: 8.04 minutes
+Episode: 603/1000 | Loss: 0.0010 | StepCount: 9 | Win rate: 0.964 | Total rewards: 0.680 | Average rewards: 0.282 | time: 8.05 minutes
+Episode: 604/1000 | Loss: 0.0009 | StepCount: 9 | Win rate: 0.964 | Total rewards: 0.180 | Average rewards: 0.298 | time: 8.07 minutes
+Episode: 605/1000 | Loss: 0.0009 | StepCount: 9 | Win rate: 0.964 | Total rewards: 0.680 | Average rewards: 0.303 | time: 8.08 minutes
+Episode: 606/1000 | Loss: 0.0009 | StepCount: 1 | Win rate: 0.964 | Total rewards: 1.000 | Average rewards: 0.305 | time: 8.08 minutes
+Episode: 607/1000 | Loss: 0.0010 | StepCount: 6 | Win rate: 0.964 | Total rewards: 0.800 | Average rewards: 0.314 | time: 8.09 minutes
+Episode: 608/1000 | Loss: 0.0012 | StepCount: 7 | Win rate: 0.964 | Total rewards: 0.260 | Average rewards: 0.324 | time: 8.11 minutes
+Episode: 609/1000 | Loss: 0.0004 | StepCount: 1 | Win rate: 0.964 | Total rewards: 1.000 | Average rewards: 0.335 | time: 8.11 minutes
+Episode: 610/1000 | Loss: 0.0016 | StepCount: 5 | Win rate: 0.964 | Total rewards: 0.590 | Average rewards: 0.334 | time: 8.12 minutes
+Episode: 611/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.964 | Total rewards: 0.390 | Average rewards: 0.333 | time: 8.13 minutes
+Episode: 612/1000 | Loss: 0.0019 | StepCount: 10 | Win rate: 0.964 | Total rewards: -0.410 | Average rewards: 0.324 | time: 8.15 minutes
+Episode: 613/1000 | Loss: 0.0013 | StepCount: 13 | Win rate: 0.964 | Total rewards: -1.990 | Average rewards: 0.302 | time: 8.17 minutes
+Episode: 614/1000 | Loss: 0.0024 | StepCount: 10 | Win rate: 0.964 | Total rewards: 0.640 | Average rewards: 0.302 | time: 8.18 minutes
+Episode: 615/1000 | Loss: 0.0029 | StepCount: 5 | Win rate: 0.964 | Total rewards: 0.590 | Average rewards: 0.305 | time: 8.19 minutes
+Episode: 616/1000 | Loss: 0.0020 | StepCount: 3 | Win rate: 0.964 | Total rewards: -0.380 | Average rewards: 0.295 | time: 8.20 minutes
+Episode: 617/1000 | Loss: 0.0017 | StepCount: 12 | Win rate: 0.964 | Total rewards: 0.560 | Average rewards: 0.301 | time: 8.22 minutes
+Episode: 618/1000 | Loss: 0.0009 | StepCount: 2 | Win rate: 0.964 | Total rewards: 0.960 | Average rewards: 0.302 | time: 8.22 minutes
+Episode: 619/1000 | Loss: 0.0004 | StepCount: 1 | Win rate: 0.965 | Total rewards: 1.000 | Average rewards: 0.306 | time: 8.22 minutes
+Episode: 620/1000 | Loss: 0.0008 | StepCount: 6 | Win rate: 0.965 | Total rewards: 0.800 | Average rewards: 0.307 | time: 8.23 minutes
+Episode: 621/1000 | Loss: 0.0028 | StepCount: 7 | Win rate: 0.965 | Total rewards: 0.760 | Average rewards: 0.307 | time: 8.25 minutes
+Episode: 622/1000 | Loss: 0.0018 | StepCount: 7 | Win rate: 0.965 | Total rewards: 0.760 | Average rewards: 0.306 | time: 8.26 minutes
+Episode: 623/1000 | Loss: 0.0021 | StepCount: 4 | Win rate: 0.965 | Total rewards: 0.880 | Average rewards: 0.308 | time: 8.27 minutes
+Episode: 624/1000 | Loss: 0.0016 | StepCount: 5 | Win rate: 0.965 | Total rewards: 0.590 | Average rewards: 0.320 | time: 8.27 minutes
+Episode: 625/1000 | Loss: 0.0018 | StepCount: 7 | Win rate: 0.965 | Total rewards: 0.760 | Average rewards: 0.321 | time: 8.29 minutes
+Episode: 626/1000 | Loss: 0.0007 | StepCount: 9 | Win rate: 0.965 | Total rewards: 0.680 | Average rewards: 0.319 | time: 8.30 minutes
+Episode: 627/1000 | Loss: 0.0007 | StepCount: 11 | Win rate: 0.965 | Total rewards: 0.600 | Average rewards: 0.319 | time: 8.32 minutes
+Episode: 628/1000 | Loss: 0.0009 | StepCount: 4 | Win rate: 0.965 | Total rewards: 0.880 | Average rewards: 0.325 | time: 8.32 minutes
+Episode: 629/1000 | Loss: 0.0007 | StepCount: 10 | Win rate: 0.965 | Total rewards: 0.640 | Average rewards: 0.334 | time: 8.34 minutes
+Episode: 630/1000 | Loss: 0.0009 | StepCount: 4 | Win rate: 0.965 | Total rewards: 0.880 | Average rewards: 0.337 | time: 8.35 minutes
+Episode: 631/1000 | Loss: 0.0002 | StepCount: 2 | Win rate: 0.965 | Total rewards: 0.710 | Average rewards: 0.338 | time: 8.35 minutes
+Episode: 632/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.965 | Total rewards: 0.430 | Average rewards: 0.333 | time: 8.37 minutes
+Episode: 633/1000 | Loss: 0.0019 | StepCount: 12 | Win rate: 0.965 | Total rewards: -0.400 | Average rewards: 0.327 | time: 8.39 minutes
+Episode: 634/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.965 | Total rewards: 0.680 | Average rewards: 0.332 | time: 8.40 minutes
+Episode: 635/1000 | Loss: 0.0014 | StepCount: 11 | Win rate: 0.965 | Total rewards: 0.600 | Average rewards: 0.347 | time: 8.42 minutes
+Episode: 636/1000 | Loss: 0.0009 | StepCount: 13 | Win rate: 0.965 | Total rewards: 0.020 | Average rewards: 0.379 | time: 8.44 minutes
+Episode: 637/1000 | Loss: 0.0005 | StepCount: 1 | Win rate: 0.966 | Total rewards: 1.000 | Average rewards: 0.381 | time: 8.44 minutes
+Episode: 638/1000 | Loss: 0.0016 | StepCount: 12 | Win rate: 0.966 | Total rewards: 0.060 | Average rewards: 0.372 | time: 8.46 minutes
+Episode: 639/1000 | Loss: 0.0012 | StepCount: 8 | Win rate: 0.966 | Total rewards: -0.240 | Average rewards: 0.363 | time: 8.47 minutes
+Episode: 640/1000 | Loss: 0.0015 | StepCount: 13 | Win rate: 0.966 | Total rewards: 0.520 | Average rewards: 0.358 | time: 8.49 minutes
+Episode: 641/1000 | Loss: 0.0012 | StepCount: 21 | Win rate: 0.966 | Total rewards: -1.760 | Average rewards: 0.336 | time: 8.53 minutes
+Episode: 642/1000 | Loss: 0.0020 | StepCount: 10 | Win rate: 0.966 | Total rewards: 0.640 | Average rewards: 0.336 | time: 8.54 minutes
+Episode: 643/1000 | Loss: 0.0010 | StepCount: 1 | Win rate: 0.966 | Total rewards: 1.000 | Average rewards: 0.349 | time: 8.55 minutes
+Episode: 644/1000 | Loss: 0.0017 | StepCount: 12 | Win rate: 0.966 | Total rewards: 0.310 | Average rewards: 0.344 | time: 8.57 minutes
+Episode: 645/1000 | Loss: 0.0007 | StepCount: 15 | Win rate: 0.966 | Total rewards: -0.060 | Average rewards: 0.336 | time: 8.59 minutes
+Episode: 646/1000 | Loss: 0.0006 | StepCount: 13 | Win rate: 0.966 | Total rewards: -1.440 | Average rewards: 0.313 | time: 8.61 minutes
+Episode: 647/1000 | Loss: 0.0013 | StepCount: 11 | Win rate: 0.966 | Total rewards: 0.600 | Average rewards: 0.320 | time: 8.63 minutes
+Episode: 648/1000 | Loss: 0.0013 | StepCount: 11 | Win rate: 0.966 | Total rewards: 0.350 | Average rewards: 0.321 | time: 8.65 minutes
+Episode: 649/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.966 | Total rewards: -0.210 | Average rewards: 0.323 | time: 8.65 minutes
+Episode: 650/1000 | Loss: 0.0015 | StepCount: 4 | Win rate: 0.966 | Total rewards: 0.880 | Average rewards: 0.324 | time: 8.66 minutes
+Episode: 651/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.966 | Total rewards: 0.470 | Average rewards: 0.328 | time: 8.68 minutes
+Episode: 652/1000 | Loss: 0.0006 | StepCount: 7 | Win rate: 0.966 | Total rewards: 0.760 | Average rewards: 0.334 | time: 8.69 minutes
+Episode: 653/1000 | Loss: 0.0011 | StepCount: 7 | Win rate: 0.966 | Total rewards: 0.760 | Average rewards: 0.335 | time: 8.70 minutes
+Episode: 654/1000 | Loss: 0.0015 | StepCount: 10 | Win rate: 0.966 | Total rewards: 0.640 | Average rewards: 0.338 | time: 8.72 minutes
+Episode: 655/1000 | Loss: 0.0006 | StepCount: 9 | Win rate: 0.966 | Total rewards: 0.680 | Average rewards: 0.336 | time: 8.73 minutes
+Episode: 656/1000 | Loss: 0.0009 | StepCount: 8 | Win rate: 0.967 | Total rewards: 0.720 | Average rewards: 0.335 | time: 8.74 minutes
+Episode: 657/1000 | Loss: 0.0009 | StepCount: 6 | Win rate: 0.967 | Total rewards: 0.550 | Average rewards: 0.334 | time: 8.75 minutes
+Episode: 658/1000 | Loss: 0.0009 | StepCount: 13 | Win rate: 0.967 | Total rewards: -0.940 | Average rewards: 0.321 | time: 8.78 minutes
+Episode: 659/1000 | Loss: 0.0011 | StepCount: 12 | Win rate: 0.967 | Total rewards: 0.560 | Average rewards: 0.318 | time: 8.80 minutes
+Episode: 660/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.967 | Total rewards: -0.190 | Average rewards: 0.327 | time: 8.81 minutes
+Episode: 661/1000 | Loss: 0.0006 | StepCount: 9 | Win rate: 0.967 | Total rewards: 0.680 | Average rewards: 0.327 | time: 8.83 minutes
+Episode: 662/1000 | Loss: 0.0012 | StepCount: 13 | Win rate: 0.967 | Total rewards: -0.190 | Average rewards: 0.323 | time: 8.85 minutes
+Episode: 663/1000 | Loss: 0.0012 | StepCount: 15 | Win rate: 0.967 | Total rewards: -0.560 | Average rewards: 0.309 | time: 8.88 minutes
+Episode: 664/1000 | Loss: 0.0017 | StepCount: 6 | Win rate: 0.967 | Total rewards: 0.800 | Average rewards: 0.310 | time: 8.89 minutes
+Episode: 665/1000 | Loss: 0.0024 | StepCount: 16 | Win rate: 0.967 | Total rewards: -0.810 | Average rewards: 0.294 | time: 8.91 minutes
+Episode: 666/1000 | Loss: 0.0014 | StepCount: 5 | Win rate: 0.967 | Total rewards: 0.840 | Average rewards: 0.303 | time: 8.92 minutes
+Episode: 667/1000 | Loss: 0.0010 | StepCount: 7 | Win rate: 0.967 | Total rewards: 0.760 | Average rewards: 0.302 | time: 8.93 minutes
+Episode: 668/1000 | Loss: 0.0014 | StepCount: 13 | Win rate: 0.967 | Total rewards: 0.520 | Average rewards: 0.313 | time: 8.95 minutes
+Episode: 669/1000 | Loss: 0.0014 | StepCount: 11 | Win rate: 0.967 | Total rewards: 0.100 | Average rewards: 0.321 | time: 8.97 minutes
+Episode: 670/1000 | Loss: 0.0026 | StepCount: 3 | Win rate: 0.967 | Total rewards: 0.920 | Average rewards: 0.324 | time: 8.98 minutes
+Episode: 671/1000 | Loss: 0.0009 | StepCount: 12 | Win rate: 0.967 | Total rewards: 0.060 | Average rewards: 0.316 | time: 9.00 minutes
+Episode: 672/1000 | Loss: 0.0018 | StepCount: 12 | Win rate: 0.967 | Total rewards: 0.560 | Average rewards: 0.315 | time: 9.02 minutes
+Episode: 673/1000 | Loss: 0.0009 | StepCount: 2 | Win rate: 0.967 | Total rewards: 0.960 | Average rewards: 0.328 | time: 9.02 minutes
+Episode: 674/1000 | Loss: 0.0005 | StepCount: 9 | Win rate: 0.967 | Total rewards: 0.680 | Average rewards: 0.335 | time: 9.04 minutes
+Episode: 675/1000 | Loss: 0.0022 | StepCount: 13 | Win rate: 0.967 | Total rewards: -0.190 | Average rewards: 0.327 | time: 9.06 minutes
+Episode: 676/1000 | Loss: 0.0009 | StepCount: 9 | Win rate: 0.968 | Total rewards: 0.180 | Average rewards: 0.322 | time: 9.07 minutes
+Episode: 677/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.968 | Total rewards: 0.390 | Average rewards: 0.317 | time: 9.09 minutes
+Episode: 678/1000 | Loss: 0.0005 | StepCount: 1 | Win rate: 0.968 | Total rewards: 1.000 | Average rewards: 0.320 | time: 9.09 minutes
+Episode: 679/1000 | Loss: 0.0013 | StepCount: 6 | Win rate: 0.968 | Total rewards: -0.200 | Average rewards: 0.315 | time: 9.11 minutes
+Episode: 680/1000 | Loss: 0.0009 | StepCount: 4 | Win rate: 0.968 | Total rewards: 0.880 | Average rewards: 0.333 | time: 9.11 minutes
+Episode: 681/1000 | Loss: 0.0015 | StepCount: 9 | Win rate: 0.968 | Total rewards: 0.680 | Average rewards: 0.355 | time: 9.13 minutes
+Episode: 682/1000 | Loss: 0.0022 | StepCount: 4 | Win rate: 0.968 | Total rewards: 0.880 | Average rewards: 0.360 | time: 9.14 minutes
+Episode: 683/1000 | Loss: 0.0010 | StepCount: 5 | Win rate: 0.968 | Total rewards: 0.840 | Average rewards: 0.360 | time: 9.15 minutes
+Episode: 684/1000 | Loss: 0.0010 | StepCount: 9 | Win rate: 0.968 | Total rewards: 0.680 | Average rewards: 0.362 | time: 9.16 minutes
+Episode: 685/1000 | Loss: 0.0012 | StepCount: 3 | Win rate: 0.968 | Total rewards: 0.920 | Average rewards: 0.373 | time: 9.17 minutes
+Episode: 686/1000 | Loss: 0.0007 | StepCount: 3 | Win rate: 0.968 | Total rewards: 0.920 | Average rewards: 0.373 | time: 9.17 minutes
+Episode: 687/1000 | Loss: 0.0011 | StepCount: 12 | Win rate: 0.968 | Total rewards: 0.560 | Average rewards: 0.369 | time: 9.19 minutes
+Episode: 688/1000 | Loss: 0.0006 | StepCount: 2 | Win rate: 0.968 | Total rewards: 0.960 | Average rewards: 0.373 | time: 9.20 minutes
+Episode: 689/1000 | Loss: 0.0013 | StepCount: 9 | Win rate: 0.968 | Total rewards: 0.680 | Average rewards: 0.374 | time: 9.22 minutes
+Episode: 690/1000 | Loss: 0.0014 | StepCount: 4 | Win rate: 0.968 | Total rewards: 0.880 | Average rewards: 0.385 | time: 9.22 minutes
+Episode: 691/1000 | Loss: 0.0004 | StepCount: 12 | Win rate: 0.968 | Total rewards: -0.990 | Average rewards: 0.381 | time: 9.24 minutes
+Episode: 692/1000 | Loss: 0.0014 | StepCount: 14 | Win rate: 0.968 | Total rewards: -0.020 | Average rewards: 0.384 | time: 9.27 minutes
+Episode: 693/1000 | Loss: 0.0017 | StepCount: 5 | Win rate: 0.968 | Total rewards: 0.840 | Average rewards: 0.392 | time: 9.28 minutes
+Episode: 694/1000 | Loss: 0.0031 | StepCount: 4 | Win rate: 0.968 | Total rewards: 0.880 | Average rewards: 0.405 | time: 9.28 minutes
+Episode: 695/1000 | Loss: 0.0016 | StepCount: 7 | Win rate: 0.968 | Total rewards: 0.760 | Average rewards: 0.422 | time: 9.30 minutes
+Episode: 696/1000 | Loss: 0.0010 | StepCount: 7 | Win rate: 0.968 | Total rewards: 0.760 | Average rewards: 0.422 | time: 9.31 minutes
+Episode: 697/1000 | Loss: 0.0018 | StepCount: 13 | Win rate: 0.968 | Total rewards: 0.020 | Average rewards: 0.414 | time: 9.33 minutes
+Episode: 698/1000 | Loss: 0.0014 | StepCount: 11 | Win rate: 0.969 | Total rewards: 0.350 | Average rewards: 0.419 | time: 9.35 minutes
+Episode: 699/1000 | Loss: 0.0012 | StepCount: 9 | Win rate: 0.969 | Total rewards: 0.680 | Average rewards: 0.425 | time: 9.36 minutes
+Episode: 700/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.969 | Total rewards: 0.840 | Average rewards: 0.426 | time: 9.37 minutes
+Episode: 701/1000 | Loss: 0.0017 | StepCount: 4 | Win rate: 0.969 | Total rewards: 0.880 | Average rewards: 0.437 | time: 9.38 minutes
+Episode: 702/1000 | Loss: 0.0009 | StepCount: 11 | Win rate: 0.969 | Total rewards: 0.600 | Average rewards: 0.435 | time: 9.40 minutes
+Episode: 703/1000 | Loss: 0.0011 | StepCount: 11 | Win rate: 0.969 | Total rewards: 0.600 | Average rewards: 0.434 | time: 9.42 minutes
+Episode: 704/1000 | Loss: 0.0014 | StepCount: 4 | Win rate: 0.969 | Total rewards: 0.380 | Average rewards: 0.436 | time: 9.43 minutes
+Episode: 705/1000 | Loss: 0.0016 | StepCount: 2 | Win rate: 0.969 | Total rewards: 0.960 | Average rewards: 0.439 | time: 9.43 minutes
+Episode: 706/1000 | Loss: 0.0004 | StepCount: 8 | Win rate: 0.969 | Total rewards: 0.220 | Average rewards: 0.431 | time: 9.45 minutes
+Episode: 707/1000 | Loss: 0.0004 | StepCount: 12 | Win rate: 0.969 | Total rewards: 0.560 | Average rewards: 0.428 | time: 9.47 minutes
+Episode: 708/1000 | Loss: 0.0021 | StepCount: 12 | Win rate: 0.969 | Total rewards: -0.990 | Average rewards: 0.416 | time: 9.49 minutes
+Episode: 709/1000 | Loss: 0.0024 | StepCount: 12 | Win rate: 0.969 | Total rewards: -0.150 | Average rewards: 0.404 | time: 9.51 minutes
+Episode: 710/1000 | Loss: 0.0003 | StepCount: 2 | Win rate: 0.969 | Total rewards: 0.960 | Average rewards: 0.408 | time: 9.51 minutes
+Episode: 711/1000 | Loss: 0.0006 | StepCount: 7 | Win rate: 0.969 | Total rewards: 0.260 | Average rewards: 0.407 | time: 9.53 minutes
+Episode: 712/1000 | Loss: 0.0006 | StepCount: 9 | Win rate: 0.969 | Total rewards: 0.180 | Average rewards: 0.413 | time: 9.54 minutes
+Episode: 713/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.969 | Total rewards: 0.430 | Average rewards: 0.437 | time: 9.56 minutes
+Episode: 714/1000 | Loss: 0.0009 | StepCount: 6 | Win rate: 0.969 | Total rewards: 0.800 | Average rewards: 0.439 | time: 9.57 minutes
+Episode: 715/1000 | Loss: 0.0005 | StepCount: 9 | Win rate: 0.969 | Total rewards: 0.680 | Average rewards: 0.439 | time: 9.58 minutes
+Episode: 716/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.969 | Total rewards: 0.680 | Average rewards: 0.450 | time: 9.60 minutes
+Episode: 717/1000 | Loss: 0.0005 | StepCount: 8 | Win rate: 0.969 | Total rewards: 0.720 | Average rewards: 0.452 | time: 9.61 minutes
+Episode: 718/1000 | Loss: 0.0013 | StepCount: 15 | Win rate: 0.969 | Total rewards: -0.560 | Average rewards: 0.436 | time: 9.64 minutes
+Episode: 719/1000 | Loss: 0.0018 | StepCount: 3 | Win rate: 0.969 | Total rewards: 0.920 | Average rewards: 0.436 | time: 9.65 minutes
+Episode: 720/1000 | Loss: 0.0016 | StepCount: 2 | Win rate: 0.969 | Total rewards: 0.960 | Average rewards: 0.437 | time: 9.65 minutes
+Episode: 721/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.970 | Total rewards: -0.410 | Average rewards: 0.426 | time: 9.67 minutes
+Episode: 722/1000 | Loss: 0.0006 | StepCount: 12 | Win rate: 0.970 | Total rewards: 0.560 | Average rewards: 0.424 | time: 9.69 minutes
+Episode: 723/1000 | Loss: 0.0012 | StepCount: 11 | Win rate: 0.970 | Total rewards: -1.450 | Average rewards: 0.400 | time: 9.71 minutes
+Episode: 724/1000 | Loss: 0.0012 | StepCount: 7 | Win rate: 0.970 | Total rewards: 0.760 | Average rewards: 0.402 | time: 9.72 minutes
+Episode: 725/1000 | Loss: 0.0007 | StepCount: 8 | Win rate: 0.970 | Total rewards: 0.720 | Average rewards: 0.401 | time: 9.74 minutes
+Episode: 726/1000 | Loss: 0.0012 | StepCount: 8 | Win rate: 0.970 | Total rewards: 0.720 | Average rewards: 0.402 | time: 9.75 minutes
+Episode: 727/1000 | Loss: 0.0006 | StepCount: 14 | Win rate: 0.970 | Total rewards: -0.020 | Average rewards: 0.396 | time: 9.77 minutes
+Episode: 728/1000 | Loss: 0.0007 | StepCount: 10 | Win rate: 0.970 | Total rewards: 0.640 | Average rewards: 0.393 | time: 9.79 minutes
+Episode: 729/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.970 | Total rewards: 0.680 | Average rewards: 0.394 | time: 9.81 minutes
+Episode: 730/1000 | Loss: 0.0002 | StepCount: 3 | Win rate: 0.970 | Total rewards: 0.920 | Average rewards: 0.394 | time: 9.81 minutes
+Episode: 731/1000 | Loss: 0.0008 | StepCount: 13 | Win rate: 0.970 | Total rewards: 0.270 | Average rewards: 0.390 | time: 9.84 minutes
+Episode: 732/1000 | Loss: 0.0006 | StepCount: 13 | Win rate: 0.970 | Total rewards: -0.530 | Average rewards: 0.380 | time: 9.86 minutes
+Episode: 733/1000 | Loss: 0.0002 | StepCount: 6 | Win rate: 0.970 | Total rewards: 0.800 | Average rewards: 0.392 | time: 9.87 minutes
+Episode: 734/1000 | Loss: 0.0006 | StepCount: 4 | Win rate: 0.970 | Total rewards: -0.170 | Average rewards: 0.384 | time: 9.88 minutes
+Episode: 735/1000 | Loss: 0.0007 | StepCount: 6 | Win rate: 0.970 | Total rewards: -0.250 | Average rewards: 0.375 | time: 9.89 minutes
+Episode: 736/1000 | Loss: 0.0001 | StepCount: 8 | Win rate: 0.970 | Total rewards: 0.720 | Average rewards: 0.382 | time: 9.90 minutes
+Episode: 737/1000 | Loss: 0.0002 | StepCount: 12 | Win rate: 0.970 | Total rewards: -0.150 | Average rewards: 0.371 | time: 9.92 minutes
+Episode: 738/1000 | Loss: 0.0011 | StepCount: 7 | Win rate: 0.970 | Total rewards: 0.050 | Average rewards: 0.370 | time: 9.94 minutes
+Episode: 739/1000 | Loss: 0.0008 | StepCount: 7 | Win rate: 0.970 | Total rewards: 0.050 | Average rewards: 0.373 | time: 9.95 minutes
+Episode: 740/1000 | Loss: 0.0012 | StepCount: 11 | Win rate: 0.970 | Total rewards: 0.350 | Average rewards: 0.372 | time: 9.97 minutes
+Episode: 741/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.970 | Total rewards: -0.110 | Average rewards: 0.388 | time: 9.99 minutes
+Episode: 742/1000 | Loss: 0.0035 | StepCount: 8 | Win rate: 0.970 | Total rewards: 0.720 | Average rewards: 0.389 | time: 10.00 minutes
+Episode: 743/1000 | Loss: 0.0014 | StepCount: 4 | Win rate: 0.970 | Total rewards: 0.880 | Average rewards: 0.388 | time: 10.01 minutes
+Episode: 744/1000 | Loss: 0.0002 | StepCount: 8 | Win rate: 0.970 | Total rewards: 0.720 | Average rewards: 0.392 | time: 10.02 minutes
+Episode: 745/1000 | Loss: 0.0014 | StepCount: 4 | Win rate: 0.971 | Total rewards: 0.880 | Average rewards: 0.401 | time: 10.03 minutes
+Episode: 746/1000 | Loss: 0.0007 | StepCount: 10 | Win rate: 0.971 | Total rewards: 0.640 | Average rewards: 0.422 | time: 10.05 minutes
+Episode: 747/1000 | Loss: 0.0001 | StepCount: 1 | Win rate: 0.971 | Total rewards: 1.000 | Average rewards: 0.426 | time: 10.05 minutes
+Episode: 748/1000 | Loss: 0.0010 | StepCount: 10 | Win rate: 0.971 | Total rewards: -0.070 | Average rewards: 0.422 | time: 10.07 minutes
+Episode: 749/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.971 | Total rewards: 0.680 | Average rewards: 0.431 | time: 10.09 minutes
+Episode: 750/1000 | Loss: 0.0020 | StepCount: 4 | Win rate: 0.971 | Total rewards: 0.880 | Average rewards: 0.431 | time: 10.10 minutes
+Episode: 751/1000 | Loss: 0.0006 | StepCount: 13 | Win rate: 0.971 | Total rewards: -0.690 | Average rewards: 0.419 | time: 10.12 minutes
+Episode: 752/1000 | Loss: 0.0002 | StepCount: 9 | Win rate: 0.971 | Total rewards: 0.680 | Average rewards: 0.418 | time: 10.13 minutes
+Episode: 753/1000 | Loss: 0.0017 | StepCount: 7 | Win rate: 0.971 | Total rewards: 0.510 | Average rewards: 0.416 | time: 10.15 minutes
+Episode: 754/1000 | Loss: 0.0010 | StepCount: 12 | Win rate: 0.971 | Total rewards: 0.060 | Average rewards: 0.410 | time: 10.17 minutes
+Episode: 755/1000 | Loss: 0.0011 | StepCount: 2 | Win rate: 0.971 | Total rewards: 0.960 | Average rewards: 0.413 | time: 10.17 minutes
+Episode: 756/1000 | Loss: 0.0008 | StepCount: 7 | Win rate: 0.971 | Total rewards: 0.260 | Average rewards: 0.408 | time: 10.19 minutes
+Episode: 757/1000 | Loss: 0.0010 | StepCount: 10 | Win rate: 0.971 | Total rewards: 0.640 | Average rewards: 0.409 | time: 10.21 minutes
+Episode: 758/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.971 | Total rewards: -0.410 | Average rewards: 0.415 | time: 10.22 minutes
+Episode: 759/1000 | Loss: 0.0008 | StepCount: 6 | Win rate: 0.971 | Total rewards: 0.800 | Average rewards: 0.417 | time: 10.24 minutes
+Episode: 760/1000 | Loss: 0.0003 | StepCount: 17 | Win rate: 0.971 | Total rewards: -1.140 | Average rewards: 0.407 | time: 10.26 minutes
+Episode: 761/1000 | Loss: 0.0012 | StepCount: 13 | Win rate: 0.971 | Total rewards: -1.150 | Average rewards: 0.389 | time: 10.29 minutes
+Episode: 762/1000 | Loss: 0.0006 | StepCount: 9 | Win rate: 0.971 | Total rewards: 0.680 | Average rewards: 0.398 | time: 10.30 minutes
+Episode: 763/1000 | Loss: 0.0006 | StepCount: 3 | Win rate: 0.971 | Total rewards: 0.920 | Average rewards: 0.413 | time: 10.31 minutes
+Episode: 764/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.971 | Total rewards: 0.590 | Average rewards: 0.411 | time: 10.32 minutes
+Episode: 765/1000 | Loss: 0.0016 | StepCount: 11 | Win rate: 0.971 | Total rewards: -1.500 | Average rewards: 0.404 | time: 10.34 minutes
+Episode: 766/1000 | Loss: 0.0004 | StepCount: 6 | Win rate: 0.971 | Total rewards: 0.800 | Average rewards: 0.403 | time: 10.35 minutes
+Episode: 767/1000 | Loss: 0.0008 | StepCount: 8 | Win rate: 0.971 | Total rewards: 0.720 | Average rewards: 0.403 | time: 10.37 minutes
+Episode: 768/1000 | Loss: 0.0004 | StepCount: 9 | Win rate: 0.971 | Total rewards: 0.680 | Average rewards: 0.404 | time: 10.38 minutes
+Episode: 769/1000 | Loss: 0.0006 | StepCount: 3 | Win rate: 0.971 | Total rewards: 0.920 | Average rewards: 0.413 | time: 10.39 minutes
+Episode: 770/1000 | Loss: 0.0007 | StepCount: 2 | Win rate: 0.971 | Total rewards: 0.710 | Average rewards: 0.411 | time: 10.39 minutes
+Episode: 771/1000 | Loss: 0.0006 | StepCount: 6 | Win rate: 0.972 | Total rewards: 0.800 | Average rewards: 0.418 | time: 10.41 minutes
+Episode: 772/1000 | Loss: 0.0016 | StepCount: 16 | Win rate: 0.972 | Total rewards: -1.060 | Average rewards: 0.402 | time: 10.43 minutes
+Episode: 773/1000 | Loss: 0.0004 | StepCount: 14 | Win rate: 0.972 | Total rewards: 0.480 | Average rewards: 0.397 | time: 10.46 minutes
+Episode: 774/1000 | Loss: 0.0012 | StepCount: 4 | Win rate: 0.972 | Total rewards: 0.880 | Average rewards: 0.399 | time: 10.47 minutes
+Episode: 775/1000 | Loss: 0.0007 | StepCount: 12 | Win rate: 0.972 | Total rewards: 0.060 | Average rewards: 0.401 | time: 10.49 minutes
+Episode: 776/1000 | Loss: 0.0019 | StepCount: 5 | Win rate: 0.972 | Total rewards: 0.840 | Average rewards: 0.408 | time: 10.50 minutes
+Episode: 777/1000 | Loss: 0.0011 | StepCount: 2 | Win rate: 0.972 | Total rewards: 0.960 | Average rewards: 0.414 | time: 10.50 minutes
+Episode: 778/1000 | Loss: 0.0012 | StepCount: 8 | Win rate: 0.972 | Total rewards: 0.720 | Average rewards: 0.411 | time: 10.52 minutes
+Episode: 779/1000 | Loss: 0.0009 | StepCount: 6 | Win rate: 0.972 | Total rewards: 0.800 | Average rewards: 0.421 | time: 10.53 minutes
+Episode: 780/1000 | Loss: 0.0007 | StepCount: 6 | Win rate: 0.972 | Total rewards: 0.800 | Average rewards: 0.420 | time: 10.54 minutes
+Episode: 781/1000 | Loss: 0.0009 | StepCount: 7 | Win rate: 0.972 | Total rewards: 0.760 | Average rewards: 0.421 | time: 10.56 minutes
+Episode: 782/1000 | Loss: 0.0004 | StepCount: 7 | Win rate: 0.972 | Total rewards: 0.760 | Average rewards: 0.420 | time: 10.57 minutes
+Episode: 783/1000 | Loss: 0.0019 | StepCount: 4 | Win rate: 0.972 | Total rewards: 0.880 | Average rewards: 0.420 | time: 10.58 minutes
+Episode: 784/1000 | Loss: 0.0052 | StepCount: 10 | Win rate: 0.972 | Total rewards: 0.640 | Average rewards: 0.420 | time: 10.60 minutes
+Episode: 785/1000 | Loss: 0.0005 | StepCount: 5 | Win rate: 0.972 | Total rewards: -0.210 | Average rewards: 0.408 | time: 10.61 minutes
+Episode: 786/1000 | Loss: 0.0011 | StepCount: 4 | Win rate: 0.972 | Total rewards: 0.880 | Average rewards: 0.408 | time: 10.61 minutes
+Episode: 787/1000 | Loss: 0.0013 | StepCount: 4 | Win rate: 0.972 | Total rewards: 0.880 | Average rewards: 0.411 | time: 10.62 minutes
+Episode: 788/1000 | Loss: 0.0017 | StepCount: 2 | Win rate: 0.972 | Total rewards: 0.960 | Average rewards: 0.411 | time: 10.63 minutes
+Episode: 789/1000 | Loss: 0.0017 | StepCount: 6 | Win rate: 0.972 | Total rewards: 0.800 | Average rewards: 0.412 | time: 10.64 minutes
+Episode: 790/1000 | Loss: 0.0020 | StepCount: 15 | Win rate: 0.972 | Total rewards: 0.440 | Average rewards: 0.408 | time: 10.67 minutes
+Episode: 791/1000 | Loss: 0.0016 | StepCount: 16 | Win rate: 0.972 | Total rewards: 0.150 | Average rewards: 0.419 | time: 10.70 minutes
+Episode: 792/1000 | Loss: 0.0009 | StepCount: 12 | Win rate: 0.972 | Total rewards: -1.860 | Average rewards: 0.401 | time: 10.72 minutes
+Episode: 793/1000 | Loss: 0.0004 | StepCount: 9 | Win rate: 0.972 | Total rewards: 0.680 | Average rewards: 0.399 | time: 10.73 minutes
+Episode: 794/1000 | Loss: 0.0015 | StepCount: 9 | Win rate: 0.972 | Total rewards: -1.670 | Average rewards: 0.374 | time: 10.75 minutes
+Episode: 795/1000 | Loss: 0.0012 | StepCount: 3 | Win rate: 0.972 | Total rewards: 0.920 | Average rewards: 0.375 | time: 10.76 minutes
+Episode: 796/1000 | Loss: 0.0008 | StepCount: 7 | Win rate: 0.972 | Total rewards: 0.760 | Average rewards: 0.375 | time: 10.77 minutes
+Episode: 797/1000 | Loss: 0.0008 | StepCount: 17 | Win rate: 0.972 | Total rewards: 0.110 | Average rewards: 0.376 | time: 10.80 minutes
+Episode: 798/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.972 | Total rewards: -0.410 | Average rewards: 0.369 | time: 10.82 minutes
+Episode: 799/1000 | Loss: 0.0005 | StepCount: 4 | Win rate: 0.973 | Total rewards: 0.880 | Average rewards: 0.371 | time: 10.83 minutes
+Episode: 800/1000 | Loss: 0.0003 | StepCount: 12 | Win rate: 0.973 | Total rewards: 0.060 | Average rewards: 0.363 | time: 10.85 minutes
+Episode: 801/1000 | Loss: 0.0008 | StepCount: 7 | Win rate: 0.973 | Total rewards: 0.760 | Average rewards: 0.362 | time: 10.86 minutes
+Episode: 802/1000 | Loss: 0.0012 | StepCount: 5 | Win rate: 0.973 | Total rewards: 0.840 | Average rewards: 0.364 | time: 10.87 minutes
+Episode: 803/1000 | Loss: 0.0005 | StepCount: 15 | Win rate: 0.973 | Total rewards: -0.060 | Average rewards: 0.358 | time: 10.90 minutes
+Episode: 804/1000 | Loss: 0.0007 | StepCount: 6 | Win rate: 0.973 | Total rewards: 0.800 | Average rewards: 0.362 | time: 10.91 minutes
+Episode: 805/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.973 | Total rewards: 0.680 | Average rewards: 0.359 | time: 10.93 minutes
+Episode: 806/1000 | Loss: 0.0018 | StepCount: 12 | Win rate: 0.973 | Total rewards: 0.560 | Average rewards: 0.362 | time: 10.95 minutes
+Episode: 807/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.973 | Total rewards: 0.840 | Average rewards: 0.365 | time: 10.96 minutes
+Episode: 808/1000 | Loss: 0.0006 | StepCount: 3 | Win rate: 0.973 | Total rewards: 0.920 | Average rewards: 0.384 | time: 10.97 minutes
+Episode: 809/1000 | Loss: 0.0013 | StepCount: 7 | Win rate: 0.973 | Total rewards: 0.760 | Average rewards: 0.393 | time: 10.98 minutes
+Episode: 810/1000 | Loss: 0.0009 | StepCount: 14 | Win rate: 0.973 | Total rewards: -1.070 | Average rewards: 0.373 | time: 11.01 minutes
+Episode: 811/1000 | Loss: 0.0003 | StepCount: 10 | Win rate: 0.973 | Total rewards: 0.640 | Average rewards: 0.377 | time: 11.03 minutes
+Episode: 812/1000 | Loss: 0.0016 | StepCount: 14 | Win rate: 0.973 | Total rewards: 0.480 | Average rewards: 0.380 | time: 11.05 minutes
+Episode: 813/1000 | Loss: 0.0011 | StepCount: 11 | Win rate: 0.973 | Total rewards: -0.360 | Average rewards: 0.372 | time: 11.07 minutes
+Episode: 814/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.973 | Total rewards: 0.680 | Average rewards: 0.371 | time: 11.09 minutes
+Episode: 815/1000 | Loss: 0.0004 | StepCount: 15 | Win rate: 0.973 | Total rewards: -0.060 | Average rewards: 0.363 | time: 11.12 minutes
+Episode: 816/1000 | Loss: 0.0006 | StepCount: 8 | Win rate: 0.973 | Total rewards: -1.040 | Average rewards: 0.346 | time: 11.13 minutes
+Episode: 817/1000 | Loss: 0.0006 | StepCount: 3 | Win rate: 0.973 | Total rewards: 0.920 | Average rewards: 0.348 | time: 11.14 minutes
+Episode: 818/1000 | Loss: 0.0003 | StepCount: 9 | Win rate: 0.973 | Total rewards: 0.680 | Average rewards: 0.361 | time: 11.16 minutes
+Episode: 819/1000 | Loss: 0.0008 | StepCount: 7 | Win rate: 0.973 | Total rewards: 0.760 | Average rewards: 0.359 | time: 11.17 minutes
+Episode: 820/1000 | Loss: 0.0013 | StepCount: 8 | Win rate: 0.973 | Total rewards: 0.720 | Average rewards: 0.357 | time: 11.19 minutes
+Episode: 821/1000 | Loss: 0.0011 | StepCount: 7 | Win rate: 0.973 | Total rewards: 0.510 | Average rewards: 0.366 | time: 11.20 minutes
+Episode: 822/1000 | Loss: 0.0004 | StepCount: 5 | Win rate: 0.973 | Total rewards: 0.840 | Average rewards: 0.369 | time: 11.21 minutes
+Episode: 823/1000 | Loss: 0.0016 | StepCount: 7 | Win rate: 0.973 | Total rewards: 0.760 | Average rewards: 0.391 | time: 11.23 minutes
+Episode: 824/1000 | Loss: 0.0015 | StepCount: 16 | Win rate: 0.973 | Total rewards: -1.400 | Average rewards: 0.369 | time: 11.25 minutes
+Episode: 825/1000 | Loss: 0.0010 | StepCount: 7 | Win rate: 0.973 | Total rewards: 0.760 | Average rewards: 0.369 | time: 11.27 minutes
+Episode: 826/1000 | Loss: 0.0011 | StepCount: 19 | Win rate: 0.973 | Total rewards: -1.470 | Average rewards: 0.348 | time: 11.30 minutes
+Episode: 827/1000 | Loss: 0.0014 | StepCount: 14 | Win rate: 0.973 | Total rewards: 0.230 | Average rewards: 0.350 | time: 11.33 minutes
+Episode: 828/1000 | Loss: 0.0009 | StepCount: 12 | Win rate: 0.973 | Total rewards: 0.060 | Average rewards: 0.344 | time: 11.35 minutes
+Episode: 829/1000 | Loss: 0.0005 | StepCount: 2 | Win rate: 0.973 | Total rewards: 0.710 | Average rewards: 0.345 | time: 11.36 minutes
+Episode: 830/1000 | Loss: 0.0009 | StepCount: 24 | Win rate: 0.974 | Total rewards: -1.970 | Average rewards: 0.316 | time: 11.40 minutes
+Episode: 831/1000 | Loss: 0.0014 | StepCount: 3 | Win rate: 0.974 | Total rewards: 0.920 | Average rewards: 0.322 | time: 11.41 minutes
+Episode: 832/1000 | Loss: 0.0004 | StepCount: 8 | Win rate: 0.974 | Total rewards: 0.720 | Average rewards: 0.335 | time: 11.42 minutes
+Episode: 833/1000 | Loss: 0.0006 | StepCount: 4 | Win rate: 0.974 | Total rewards: 0.880 | Average rewards: 0.336 | time: 11.43 minutes
+Episode: 834/1000 | Loss: 0.0019 | StepCount: 15 | Win rate: 0.974 | Total rewards: -1.110 | Average rewards: 0.326 | time: 11.46 minutes
+Episode: 835/1000 | Loss: 0.0016 | StepCount: 11 | Win rate: 0.974 | Total rewards: 0.600 | Average rewards: 0.335 | time: 11.48 minutes
+Episode: 836/1000 | Loss: 0.0018 | StepCount: 6 | Win rate: 0.974 | Total rewards: 0.800 | Average rewards: 0.335 | time: 11.49 minutes
+Episode: 837/1000 | Loss: 0.0020 | StepCount: 12 | Win rate: 0.974 | Total rewards: 0.560 | Average rewards: 0.343 | time: 11.52 minutes
+Episode: 838/1000 | Loss: 0.0046 | StepCount: 9 | Win rate: 0.974 | Total rewards: 0.680 | Average rewards: 0.349 | time: 11.53 minutes
+Episode: 839/1000 | Loss: 0.0011 | StepCount: 5 | Win rate: 0.974 | Total rewards: 0.840 | Average rewards: 0.357 | time: 11.54 minutes
+Episode: 840/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.974 | Total rewards: 0.840 | Average rewards: 0.362 | time: 11.55 minutes
+Episode: 841/1000 | Loss: 0.0010 | StepCount: 14 | Win rate: 0.974 | Total rewards: -0.480 | Average rewards: 0.358 | time: 11.58 minutes
+Episode: 842/1000 | Loss: 0.0006 | StepCount: 7 | Win rate: 0.974 | Total rewards: -0.290 | Average rewards: 0.348 | time: 11.59 minutes
+Episode: 843/1000 | Loss: 0.0012 | StepCount: 10 | Win rate: 0.974 | Total rewards: -0.320 | Average rewards: 0.336 | time: 11.61 minutes
+Episode: 844/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.974 | Total rewards: 0.840 | Average rewards: 0.337 | time: 11.63 minutes
+Episode: 845/1000 | Loss: 0.0015 | StepCount: 5 | Win rate: 0.974 | Total rewards: 0.840 | Average rewards: 0.337 | time: 11.64 minutes
+Episode: 846/1000 | Loss: 0.0006 | StepCount: 15 | Win rate: 0.974 | Total rewards: 0.190 | Average rewards: 0.332 | time: 11.66 minutes
+Episode: 847/1000 | Loss: 0.0008 | StepCount: 14 | Win rate: 0.974 | Total rewards: -0.020 | Average rewards: 0.322 | time: 11.69 minutes
+Episode: 848/1000 | Loss: 0.0021 | StepCount: 12 | Win rate: 0.974 | Total rewards: -0.190 | Average rewards: 0.321 | time: 11.71 minutes
+Episode: 849/1000 | Loss: 0.0013 | StepCount: 12 | Win rate: 0.974 | Total rewards: -0.740 | Average rewards: 0.307 | time: 11.74 minutes
+Episode: 850/1000 | Loss: 0.0052 | StepCount: 7 | Win rate: 0.974 | Total rewards: 0.760 | Average rewards: 0.305 | time: 11.75 minutes
+Episode: 851/1000 | Loss: 0.0009 | StepCount: 10 | Win rate: 0.974 | Total rewards: 0.140 | Average rewards: 0.314 | time: 11.77 minutes
+Episode: 852/1000 | Loss: 0.0030 | StepCount: 9 | Win rate: 0.974 | Total rewards: -0.280 | Average rewards: 0.304 | time: 11.79 minutes
+Episode: 853/1000 | Loss: 0.0022 | StepCount: 11 | Win rate: 0.974 | Total rewards: 0.350 | Average rewards: 0.302 | time: 11.81 minutes
+Episode: 854/1000 | Loss: 0.0012 | StepCount: 9 | Win rate: 0.974 | Total rewards: 0.680 | Average rewards: 0.309 | time: 11.83 minutes
+Episode: 855/1000 | Loss: 0.0002 | StepCount: 11 | Win rate: 0.974 | Total rewards: 0.100 | Average rewards: 0.300 | time: 11.85 minutes
+Episode: 856/1000 | Loss: 0.0006 | StepCount: 7 | Win rate: 0.974 | Total rewards: 0.760 | Average rewards: 0.305 | time: 11.86 minutes
+Episode: 857/1000 | Loss: 0.0012 | StepCount: 13 | Win rate: 0.974 | Total rewards: 0.270 | Average rewards: 0.301 | time: 11.89 minutes
+Episode: 858/1000 | Loss: 0.0024 | StepCount: 3 | Win rate: 0.974 | Total rewards: 0.920 | Average rewards: 0.315 | time: 11.90 minutes
+Episode: 859/1000 | Loss: 0.0012 | StepCount: 9 | Win rate: 0.974 | Total rewards: 0.680 | Average rewards: 0.313 | time: 11.91 minutes
+Episode: 860/1000 | Loss: 0.0018 | StepCount: 7 | Win rate: 0.974 | Total rewards: 0.760 | Average rewards: 0.332 | time: 11.93 minutes
+Episode: 861/1000 | Loss: 0.0029 | StepCount: 9 | Win rate: 0.974 | Total rewards: -0.030 | Average rewards: 0.344 | time: 11.95 minutes
+Episode: 862/1000 | Loss: 0.0005 | StepCount: 4 | Win rate: 0.975 | Total rewards: 0.880 | Average rewards: 0.346 | time: 11.96 minutes
+Episode: 863/1000 | Loss: 0.0011 | StepCount: 9 | Win rate: 0.975 | Total rewards: 0.680 | Average rewards: 0.343 | time: 11.97 minutes
+Episode: 864/1000 | Loss: 0.0007 | StepCount: 10 | Win rate: 0.975 | Total rewards: 0.640 | Average rewards: 0.344 | time: 11.99 minutes
+Episode: 865/1000 | Loss: 0.0021 | StepCount: 6 | Win rate: 0.975 | Total rewards: 0.550 | Average rewards: 0.364 | time: 12.01 minutes
+Episode: 866/1000 | Loss: 0.0024 | StepCount: 5 | Win rate: 0.975 | Total rewards: 0.130 | Average rewards: 0.358 | time: 12.02 minutes
+Episode: 867/1000 | Loss: 0.0003 | StepCount: 5 | Win rate: 0.975 | Total rewards: 0.840 | Average rewards: 0.359 | time: 12.03 minutes
+Episode: 868/1000 | Loss: 0.0012 | StepCount: 9 | Win rate: 0.975 | Total rewards: 0.680 | Average rewards: 0.359 | time: 12.05 minutes
+Episode: 869/1000 | Loss: 0.0002 | StepCount: 9 | Win rate: 0.975 | Total rewards: 0.680 | Average rewards: 0.356 | time: 12.07 minutes
+Episode: 870/1000 | Loss: 0.0020 | StepCount: 7 | Win rate: 0.975 | Total rewards: 0.760 | Average rewards: 0.357 | time: 12.08 minutes
+Episode: 871/1000 | Loss: 0.0005 | StepCount: 4 | Win rate: 0.975 | Total rewards: 0.880 | Average rewards: 0.358 | time: 12.09 minutes
+Episode: 872/1000 | Loss: 0.0013 | StepCount: 5 | Win rate: 0.975 | Total rewards: 0.840 | Average rewards: 0.377 | time: 12.10 minutes
+Episode: 873/1000 | Loss: 0.0011 | StepCount: 26 | Win rate: 0.975 | Total rewards: -2.000 | Average rewards: 0.352 | time: 12.15 minutes
+Episode: 874/1000 | Loss: 0.0005 | StepCount: 3 | Win rate: 0.975 | Total rewards: 0.920 | Average rewards: 0.352 | time: 12.16 minutes
+Episode: 875/1000 | Loss: 0.0013 | StepCount: 7 | Win rate: 0.975 | Total rewards: 0.510 | Average rewards: 0.357 | time: 12.17 minutes
+Episode: 876/1000 | Loss: 0.0006 | StepCount: 9 | Win rate: 0.975 | Total rewards: 0.680 | Average rewards: 0.355 | time: 12.19 minutes
+Episode: 877/1000 | Loss: 0.0018 | StepCount: 11 | Win rate: 0.975 | Total rewards: 0.600 | Average rewards: 0.352 | time: 12.21 minutes
+Episode: 878/1000 | Loss: 0.0006 | StepCount: 11 | Win rate: 0.975 | Total rewards: 0.600 | Average rewards: 0.350 | time: 12.23 minutes
+Episode: 879/1000 | Loss: 0.0008 | StepCount: 5 | Win rate: 0.975 | Total rewards: 0.840 | Average rewards: 0.351 | time: 12.24 minutes
+Episode: 880/1000 | Loss: 0.0013 | StepCount: 3 | Win rate: 0.975 | Total rewards: 0.920 | Average rewards: 0.352 | time: 12.25 minutes
+Episode: 881/1000 | Loss: 0.0014 | StepCount: 5 | Win rate: 0.975 | Total rewards: 0.840 | Average rewards: 0.353 | time: 12.26 minutes
+Episode: 882/1000 | Loss: 0.0020 | StepCount: 9 | Win rate: 0.975 | Total rewards: 0.680 | Average rewards: 0.352 | time: 12.28 minutes
+Episode: 883/1000 | Loss: 0.0013 | StepCount: 12 | Win rate: 0.975 | Total rewards: -0.190 | Average rewards: 0.341 | time: 12.30 minutes
+Episode: 884/1000 | Loss: 0.0007 | StepCount: 2 | Win rate: 0.975 | Total rewards: 0.710 | Average rewards: 0.342 | time: 12.31 minutes
+Episode: 885/1000 | Loss: 0.0008 | StepCount: 2 | Win rate: 0.975 | Total rewards: 0.710 | Average rewards: 0.351 | time: 12.32 minutes
+Episode: 886/1000 | Loss: 0.0017 | StepCount: 4 | Win rate: 0.975 | Total rewards: 0.880 | Average rewards: 0.351 | time: 12.33 minutes
+Episode: 887/1000 | Loss: 0.0010 | StepCount: 7 | Win rate: 0.975 | Total rewards: 0.760 | Average rewards: 0.350 | time: 12.34 minutes
+Episode: 888/1000 | Loss: 0.0005 | StepCount: 8 | Win rate: 0.975 | Total rewards: 0.720 | Average rewards: 0.347 | time: 12.36 minutes
+Episode: 889/1000 | Loss: 0.0016 | StepCount: 8 | Win rate: 0.975 | Total rewards: 0.720 | Average rewards: 0.347 | time: 12.38 minutes
+Episode: 890/1000 | Loss: 0.0007 | StepCount: 10 | Win rate: 0.975 | Total rewards: 0.140 | Average rewards: 0.344 | time: 12.40 minutes
+Episode: 891/1000 | Loss: 0.0013 | StepCount: 10 | Win rate: 0.975 | Total rewards: 0.640 | Average rewards: 0.349 | time: 12.42 minutes
+Episode: 892/1000 | Loss: 0.0007 | StepCount: 6 | Win rate: 0.975 | Total rewards: -0.250 | Average rewards: 0.365 | time: 12.43 minutes
+Episode: 893/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.975 | Total rewards: 0.720 | Average rewards: 0.365 | time: 12.45 minutes
+Episode: 894/1000 | Loss: 0.0011 | StepCount: 15 | Win rate: 0.975 | Total rewards: 0.440 | Average rewards: 0.386 | time: 12.48 minutes
+Episode: 895/1000 | Loss: 0.0015 | StepCount: 11 | Win rate: 0.975 | Total rewards: -0.110 | Average rewards: 0.376 | time: 12.50 minutes
+Episode: 896/1000 | Loss: 0.0005 | StepCount: 11 | Win rate: 0.975 | Total rewards: -0.110 | Average rewards: 0.367 | time: 12.52 minutes
+Episode: 897/1000 | Loss: 0.0009 | StepCount: 8 | Win rate: 0.976 | Total rewards: 0.720 | Average rewards: 0.373 | time: 12.54 minutes
+Episode: 898/1000 | Loss: 0.0017 | StepCount: 13 | Win rate: 0.976 | Total rewards: -0.190 | Average rewards: 0.376 | time: 12.56 minutes
+Episode: 899/1000 | Loss: 0.0014 | StepCount: 13 | Win rate: 0.976 | Total rewards: 0.520 | Average rewards: 0.372 | time: 12.59 minutes
+Episode: 900/1000 | Loss: 0.0007 | StepCount: 1 | Win rate: 0.976 | Total rewards: 1.000 | Average rewards: 0.381 | time: 12.59 minutes
+Episode: 901/1000 | Loss: 0.0010 | StepCount: 3 | Win rate: 0.976 | Total rewards: 0.920 | Average rewards: 0.383 | time: 12.60 minutes
+Episode: 902/1000 | Loss: 0.0018 | StepCount: 5 | Win rate: 0.976 | Total rewards: 0.840 | Average rewards: 0.383 | time: 12.61 minutes
+Episode: 903/1000 | Loss: 0.0008 | StepCount: 17 | Win rate: 0.976 | Total rewards: -0.140 | Average rewards: 0.382 | time: 12.65 minutes
+Episode: 904/1000 | Loss: 0.0007 | StepCount: 9 | Win rate: 0.976 | Total rewards: 0.680 | Average rewards: 0.381 | time: 12.67 minutes
+Episode: 905/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.976 | Total rewards: -0.240 | Average rewards: 0.372 | time: 12.68 minutes
+Episode: 906/1000 | Loss: 0.0004 | StepCount: 6 | Win rate: 0.976 | Total rewards: 0.800 | Average rewards: 0.374 | time: 12.70 minutes
+Episode: 907/1000 | Loss: 0.0003 | StepCount: 11 | Win rate: 0.976 | Total rewards: 0.600 | Average rewards: 0.372 | time: 12.72 minutes
+Episode: 908/1000 | Loss: 0.0005 | StepCount: 3 | Win rate: 0.976 | Total rewards: 0.920 | Average rewards: 0.372 | time: 12.73 minutes
+Episode: 909/1000 | Loss: 0.0017 | StepCount: 11 | Win rate: 0.976 | Total rewards: 0.350 | Average rewards: 0.368 | time: 12.75 minutes
+Episode: 910/1000 | Loss: 0.0002 | StepCount: 9 | Win rate: 0.976 | Total rewards: 0.680 | Average rewards: 0.385 | time: 12.77 minutes
+Episode: 911/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.976 | Total rewards: -0.240 | Average rewards: 0.376 | time: 12.78 minutes
+Episode: 912/1000 | Loss: 0.0008 | StepCount: 17 | Win rate: 0.976 | Total rewards: -1.100 | Average rewards: 0.360 | time: 12.82 minutes
+Episode: 913/1000 | Loss: 0.0009 | StepCount: 9 | Win rate: 0.976 | Total rewards: 0.680 | Average rewards: 0.371 | time: 12.84 minutes
+Episode: 914/1000 | Loss: 0.0006 | StepCount: 15 | Win rate: 0.976 | Total rewards: -0.060 | Average rewards: 0.363 | time: 12.87 minutes
+Episode: 915/1000 | Loss: 0.0003 | StepCount: 11 | Win rate: 0.976 | Total rewards: 0.600 | Average rewards: 0.370 | time: 12.89 minutes
+Episode: 916/1000 | Loss: 0.0010 | StepCount: 11 | Win rate: 0.976 | Total rewards: 0.600 | Average rewards: 0.387 | time: 12.91 minutes
+Episode: 917/1000 | Loss: 0.0011 | StepCount: 4 | Win rate: 0.976 | Total rewards: -0.170 | Average rewards: 0.376 | time: 12.92 minutes
+Episode: 918/1000 | Loss: 0.0008 | StepCount: 4 | Win rate: 0.976 | Total rewards: 0.880 | Average rewards: 0.378 | time: 12.93 minutes
+Episode: 919/1000 | Loss: 0.0008 | StepCount: 13 | Win rate: 0.976 | Total rewards: -0.440 | Average rewards: 0.366 | time: 12.96 minutes
+Episode: 920/1000 | Loss: 0.0016 | StepCount: 4 | Win rate: 0.976 | Total rewards: 0.880 | Average rewards: 0.367 | time: 12.97 minutes
+Episode: 921/1000 | Loss: 0.0005 | StepCount: 8 | Win rate: 0.976 | Total rewards: 0.720 | Average rewards: 0.369 | time: 12.98 minutes
+Episode: 922/1000 | Loss: 0.0010 | StepCount: 11 | Win rate: 0.976 | Total rewards: 0.600 | Average rewards: 0.367 | time: 13.01 minutes
+Episode: 923/1000 | Loss: 0.0010 | StepCount: 19 | Win rate: 0.976 | Total rewards: -1.270 | Average rewards: 0.347 | time: 13.05 minutes
+Episode: 924/1000 | Loss: 0.0026 | StepCount: 1 | Win rate: 0.976 | Total rewards: 1.000 | Average rewards: 0.371 | time: 13.05 minutes
+Episode: 925/1000 | Loss: 0.0014 | StepCount: 8 | Win rate: 0.976 | Total rewards: 0.720 | Average rewards: 0.370 | time: 13.07 minutes
+Episode: 926/1000 | Loss: 0.0004 | StepCount: 14 | Win rate: 0.976 | Total rewards: -0.730 | Average rewards: 0.378 | time: 13.10 minutes
+Episode: 927/1000 | Loss: 0.0012 | StepCount: 11 | Win rate: 0.976 | Total rewards: 0.600 | Average rewards: 0.381 | time: 13.13 minutes
+Episode: 928/1000 | Loss: 0.0007 | StepCount: 1 | Win rate: 0.976 | Total rewards: 1.000 | Average rewards: 0.391 | time: 13.13 minutes
+Episode: 929/1000 | Loss: 0.0002 | StepCount: 6 | Win rate: 0.976 | Total rewards: 0.800 | Average rewards: 0.392 | time: 13.15 minutes
+Episode: 930/1000 | Loss: 0.0011 | StepCount: 10 | Win rate: 0.976 | Total rewards: 0.640 | Average rewards: 0.418 | time: 13.17 minutes
+Episode: 931/1000 | Loss: 0.0013 | StepCount: 7 | Win rate: 0.976 | Total rewards: -0.540 | Average rewards: 0.403 | time: 13.19 minutes
+Episode: 932/1000 | Loss: 0.0015 | StepCount: 12 | Win rate: 0.976 | Total rewards: 0.310 | Average rewards: 0.399 | time: 13.22 minutes
+Episode: 933/1000 | Loss: 0.0012 | StepCount: 5 | Win rate: 0.976 | Total rewards: 0.840 | Average rewards: 0.399 | time: 13.23 minutes
+Episode: 934/1000 | Loss: 0.0001 | StepCount: 13 | Win rate: 0.976 | Total rewards: 0.520 | Average rewards: 0.415 | time: 13.26 minutes
+Episode: 935/1000 | Loss: 0.0008 | StepCount: 9 | Win rate: 0.976 | Total rewards: 0.680 | Average rewards: 0.416 | time: 13.28 minutes
+Episode: 936/1000 | Loss: 0.0030 | StepCount: 4 | Win rate: 0.977 | Total rewards: 0.880 | Average rewards: 0.417 | time: 13.29 minutes
+Episode: 937/1000 | Loss: 0.0013 | StepCount: 1 | Win rate: 0.977 | Total rewards: 1.000 | Average rewards: 0.421 | time: 13.30 minutes
+Episode: 938/1000 | Loss: 0.0010 | StepCount: 14 | Win rate: 0.977 | Total rewards: -0.480 | Average rewards: 0.409 | time: 13.33 minutes
+Episode: 939/1000 | Loss: 0.0003 | StepCount: 11 | Win rate: 0.977 | Total rewards: 0.600 | Average rewards: 0.407 | time: 13.35 minutes
+Episode: 940/1000 | Loss: 0.0010 | StepCount: 9 | Win rate: 0.977 | Total rewards: 0.180 | Average rewards: 0.400 | time: 13.37 minutes
+Episode: 941/1000 | Loss: 0.0002 | StepCount: 10 | Win rate: 0.977 | Total rewards: 0.390 | Average rewards: 0.409 | time: 13.39 minutes
+Episode: 942/1000 | Loss: 0.0008 | StepCount: 10 | Win rate: 0.977 | Total rewards: 0.390 | Average rewards: 0.416 | time: 13.42 minutes
+Episode: 943/1000 | Loss: 0.0014 | StepCount: 3 | Win rate: 0.977 | Total rewards: 0.920 | Average rewards: 0.428 | time: 13.43 minutes
+Episode: 944/1000 | Loss: 0.0006 | StepCount: 10 | Win rate: 0.977 | Total rewards: 0.640 | Average rewards: 0.426 | time: 13.45 minutes
+Episode: 945/1000 | Loss: 0.0009 | StepCount: 9 | Win rate: 0.977 | Total rewards: 0.680 | Average rewards: 0.425 | time: 13.47 minutes
+Episode: 946/1000 | Loss: 0.0002 | StepCount: 15 | Win rate: 0.977 | Total rewards: 0.190 | Average rewards: 0.425 | time: 13.50 minutes
+Episode: 947/1000 | Loss: 0.0030 | StepCount: 11 | Win rate: 0.977 | Total rewards: 0.100 | Average rewards: 0.426 | time: 13.52 minutes
+Episode: 948/1000 | Loss: 0.0003 | StepCount: 12 | Win rate: 0.977 | Total rewards: 0.560 | Average rewards: 0.433 | time: 13.55 minutes
+Episode: 949/1000 | Loss: 0.0006 | StepCount: 10 | Win rate: 0.977 | Total rewards: -0.070 | Average rewards: 0.440 | time: 13.57 minutes
+Episode: 950/1000 | Loss: 0.0027 | StepCount: 11 | Win rate: 0.977 | Total rewards: 0.350 | Average rewards: 0.436 | time: 13.60 minutes
+Episode: 951/1000 | Loss: 0.0012 | StepCount: 13 | Win rate: 0.977 | Total rewards: 0.270 | Average rewards: 0.437 | time: 13.63 minutes
+Episode: 952/1000 | Loss: 0.0013 | StepCount: 12 | Win rate: 0.977 | Total rewards: 0.560 | Average rewards: 0.446 | time: 13.65 minutes
+Episode: 953/1000 | Loss: 0.0021 | StepCount: 14 | Win rate: 0.977 | Total rewards: 0.480 | Average rewards: 0.447 | time: 13.68 minutes
+Episode: 954/1000 | Loss: 0.0002 | StepCount: 2 | Win rate: 0.977 | Total rewards: 0.250 | Average rewards: 0.443 | time: 13.69 minutes
+Episode: 955/1000 | Loss: 0.0010 | StepCount: 6 | Win rate: 0.977 | Total rewards: 0.800 | Average rewards: 0.450 | time: 13.71 minutes
+Episode: 956/1000 | Loss: 0.0004 | StepCount: 7 | Win rate: 0.977 | Total rewards: 0.260 | Average rewards: 0.445 | time: 13.72 minutes
+Episode: 957/1000 | Loss: 0.0007 | StepCount: 8 | Win rate: 0.977 | Total rewards: 0.720 | Average rewards: 0.449 | time: 13.74 minutes
+Episode: 958/1000 | Loss: 0.0007 | StepCount: 6 | Win rate: 0.977 | Total rewards: 0.090 | Average rewards: 0.441 | time: 13.76 minutes
+Episode: 959/1000 | Loss: 0.0013 | StepCount: 11 | Win rate: 0.977 | Total rewards: 0.100 | Average rewards: 0.435 | time: 13.78 minutes
+Episode: 960/1000 | Loss: 0.0007 | StepCount: 12 | Win rate: 0.977 | Total rewards: 0.060 | Average rewards: 0.428 | time: 13.81 minutes
+Episode: 961/1000 | Loss: 0.0003 | StepCount: 10 | Win rate: 0.977 | Total rewards: 0.640 | Average rewards: 0.435 | time: 13.83 minutes
+Episode: 962/1000 | Loss: 0.0003 | StepCount: 8 | Win rate: 0.977 | Total rewards: -0.330 | Average rewards: 0.423 | time: 13.85 minutes
+Episode: 963/1000 | Loss: 0.0004 | StepCount: 3 | Win rate: 0.977 | Total rewards: 0.210 | Average rewards: 0.418 | time: 13.86 minutes
+Episode: 964/1000 | Loss: 0.0005 | StepCount: 11 | Win rate: 0.977 | Total rewards: 0.600 | Average rewards: 0.418 | time: 13.88 minutes
+Episode: 965/1000 | Loss: 0.0005 | StepCount: 17 | Win rate: 0.977 | Total rewards: -3.520 | Average rewards: 0.377 | time: 13.92 minutes
+Episode: 966/1000 | Loss: 0.0016 | StepCount: 5 | Win rate: 0.977 | Total rewards: 0.840 | Average rewards: 0.384 | time: 13.93 minutes
+Episode: 967/1000 | Loss: 0.0004 | StepCount: 11 | Win rate: 0.977 | Total rewards: 0.350 | Average rewards: 0.379 | time: 13.96 minutes
+Episode: 968/1000 | Loss: 0.0003 | StepCount: 9 | Win rate: 0.977 | Total rewards: 0.680 | Average rewards: 0.379 | time: 13.98 minutes
+Episode: 969/1000 | Loss: 0.0006 | StepCount: 10 | Win rate: 0.977 | Total rewards: 0.140 | Average rewards: 0.374 | time: 14.00 minutes
+Episode: 970/1000 | Loss: 0.0005 | StepCount: 13 | Win rate: 0.977 | Total rewards: -0.230 | Average rewards: 0.364 | time: 14.03 minutes
+Episode: 971/1000 | Loss: 0.0010 | StepCount: 8 | Win rate: 0.977 | Total rewards: 0.720 | Average rewards: 0.362 | time: 14.05 minutes
+Episode: 972/1000 | Loss: 0.0014 | StepCount: 11 | Win rate: 0.977 | Total rewards: 0.100 | Average rewards: 0.355 | time: 14.07 minutes
+Episode: 973/1000 | Loss: 0.0001 | StepCount: 14 | Win rate: 0.977 | Total rewards: 0.480 | Average rewards: 0.380 | time: 14.10 minutes
+Episode: 974/1000 | Loss: 0.0016 | StepCount: 12 | Win rate: 0.977 | Total rewards: 0.060 | Average rewards: 0.371 | time: 14.13 minutes
+Episode: 975/1000 | Loss: 0.0015 | StepCount: 13 | Win rate: 0.977 | Total rewards: 0.270 | Average rewards: 0.369 | time: 14.16 minutes
+Episode: 976/1000 | Loss: 0.0006 | StepCount: 5 | Win rate: 0.977 | Total rewards: 0.840 | Average rewards: 0.370 | time: 14.17 minutes
+Episode: 977/1000 | Loss: 0.0010 | StepCount: 11 | Win rate: 0.978 | Total rewards: 0.600 | Average rewards: 0.370 | time: 14.20 minutes
+Episode: 978/1000 | Loss: 0.0009 | StepCount: 8 | Win rate: 0.978 | Total rewards: 0.010 | Average rewards: 0.364 | time: 14.22 minutes
+Episode: 979/1000 | Loss: 0.0010 | StepCount: 4 | Win rate: 0.978 | Total rewards: 0.880 | Average rewards: 0.365 | time: 14.23 minutes
+Episode: 980/1000 | Loss: 0.0010 | StepCount: 10 | Win rate: 0.978 | Total rewards: -0.320 | Average rewards: 0.352 | time: 14.25 minutes
+Episode: 981/1000 | Loss: 0.0013 | StepCount: 9 | Win rate: 0.978 | Total rewards: 0.680 | Average rewards: 0.351 | time: 14.27 minutes
+Episode: 982/1000 | Loss: 0.0005 | StepCount: 8 | Win rate: 0.978 | Total rewards: -0.700 | Average rewards: 0.337 | time: 14.29 minutes
+Episode: 983/1000 | Loss: 0.0005 | StepCount: 14 | Win rate: 0.978 | Total rewards: -0.730 | Average rewards: 0.331 | time: 14.33 minutes
+Episode: 984/1000 | Loss: 0.0008 | StepCount: 12 | Win rate: 0.978 | Total rewards: -0.740 | Average rewards: 0.317 | time: 14.35 minutes
+Episode: 985/1000 | Loss: 0.0007 | StepCount: 4 | Win rate: 0.978 | Total rewards: 0.880 | Average rewards: 0.319 | time: 14.36 minutes
+Episode: 986/1000 | Loss: 0.0006 | StepCount: 4 | Win rate: 0.978 | Total rewards: 0.170 | Average rewards: 0.312 | time: 14.37 minutes
+Episode: 987/1000 | Loss: 0.0006 | StepCount: 2 | Win rate: 0.978 | Total rewards: 0.710 | Average rewards: 0.311 | time: 14.38 minutes
+Episode: 988/1000 | Loss: 0.0016 | StepCount: 3 | Win rate: 0.978 | Total rewards: 0.920 | Average rewards: 0.313 | time: 14.39 minutes
+Episode: 989/1000 | Loss: 0.0011 | StepCount: 12 | Win rate: 0.978 | Total rewards: 0.560 | Average rewards: 0.311 | time: 14.42 minutes
+Episode: 990/1000 | Loss: 0.0011 | StepCount: 16 | Win rate: 0.978 | Total rewards: -0.650 | Average rewards: 0.304 | time: 14.45 minutes
+Episode: 991/1000 | Loss: 0.0002 | StepCount: 12 | Win rate: 0.978 | Total rewards: 0.560 | Average rewards: 0.303 | time: 14.48 minutes
+Episode: 992/1000 | Loss: 0.0007 | StepCount: 10 | Win rate: 0.978 | Total rewards: 0.640 | Average rewards: 0.312 | time: 14.50 minutes
+Episode: 993/1000 | Loss: 0.0002 | StepCount: 17 | Win rate: 0.978 | Total rewards: -0.640 | Average rewards: 0.298 | time: 14.54 minutes
+Episode: 994/1000 | Loss: 0.0012 | StepCount: 14 | Win rate: 0.978 | Total rewards: -0.020 | Average rewards: 0.293 | time: 14.57 minutes
+Episode: 995/1000 | Loss: 0.0011 | StepCount: 7 | Win rate: 0.978 | Total rewards: 0.760 | Average rewards: 0.302 | time: 14.59 minutes
+Episode: 996/1000 | Loss: 0.0002 | StepCount: 13 | Win rate: 0.978 | Total rewards: 0.020 | Average rewards: 0.303 | time: 14.62 minutes
+Episode: 997/1000 | Loss: 0.0002 | StepCount: 4 | Win rate: 0.978 | Total rewards: 0.880 | Average rewards: 0.305 | time: 14.63 minutes
+Episode: 998/1000 | Loss: 0.0008 | StepCount: 14 | Win rate: 0.978 | Total rewards: -2.190 | Average rewards: 0.285 | time: 14.66 minutes
+Episode: 999/1000 | Loss: 0.0020 | StepCount: 13 | Win rate: 0.978 | Total rewards: -0.480 | Average rewards: 0.275 | time: 14.69 minutes
+Episode: 1000/1000 | Loss: 0.0014 | StepCount: 12 | Win rate: 0.978 | Total rewards: 0.560 | Average rewards: 0.271 | time: 14.72 minutes
+training over!
+total_win_rate 0.9780439121756487
+total_time 14.72 minutes
+average rewards per episode -0.06661338661338637
