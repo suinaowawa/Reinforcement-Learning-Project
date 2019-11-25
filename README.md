@@ -12,7 +12,7 @@ This project design and implement a self-tracking multi-agent system, which can 
 - Multi-agent DQN training process: https://youtu.be/kuo40hc72-Y
 - Multi-agent DQN testing: https://youtu.be/M5OzCxlyQDc
 - Prototype system based on multi-agent DQN: https://youtu.be/Bc_-8lmLLPA
-
+![Alt text](https://github.com/suinaowawa/Reinforcement-Learning-Project/blob/master/figures/2.PNG)
 ## Main packages been used for software:
 -	Tkinter (8.6.8) a graphical user interface (GUI)tool used to build the simulation software
 -	Pandas (0.23.4) a data analysis tool used for Q-table
