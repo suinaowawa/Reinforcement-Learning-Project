@@ -17,14 +17,12 @@ This concept in this project can be applied in several applications, such as **s
 
 ## Key Achievements:
 - A user-friendly simulation tool where you can train, test, save your model
-![](figures/image_2.png?v=1&type=image)
+![](figures/image_4.png?v=1&type=image)
 - Robotic cars construction, installation and application of various sensors, model deployment on Raspberry-Pi
 ![](figures/image_3.png?v=1&type=image)
 
 - Implemented and compared 4 reinforcement learning algorithms, innovatively extended traditional single agent algorithm to multi-agent applications
 - Real-time scanning of QR codes & communication system between cars
-- Multi-agent DQN testing: https://youtu.be/M5OzCxlyQDc
-- Prototype system based on multi-agent DQN: https://youtu.be/Bc_-8lmLLPA
 
 ## Main packages:
 -	Tkinter (8.6.8) a graphical user interface (GUI)tool used to build the simulation software
